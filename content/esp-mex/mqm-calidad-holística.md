@@ -65,7 +65,7 @@ A continuación presentamos la tipología de errores personalizada, junto con un
 
 | Tipo | Descripción |
 | ----- | ----- |
-| Referencias culturales | Dependiendo de si se ha seguido un enfoque domesticador o extranjerizante, es posible que las referencias culturales específicas deban localizarse para el mercado meta. En contenido web, los enlaces deben actualizarse para dirigir a versiones en la lengua meta. |
+| Referencias culturales | Dependiendo de si se ha seguido una estrategía de domesticación o extranjerización, es posible que las referencias culturales específicas deban localizarse para el mercado meta. En contenido web, los enlaces deben actualizarse para dirigir a versiones en la lengua meta. |
 | Contenido ofensivo | Las traducciones no deben ser ofensivas. Una traducción ofensiva puede surgir de la traducción automática o del uso de una variante lingüística incorrecta. |
 
 ### Marcadores de calidad
