@@ -1,6 +1,6 @@
 # Introducción: Sistemas de gestión de calidad en traducción basados en MQM
 
-Bienvenidas y bienvenidos a este curso sobre **Sistemas de Gestión de Calidad en Traducción (SGCT)** fundamentados en el marco de Métricas de Calidad Multidimensional (MQM, por sus siglas en inglés). El curso está dirigido a profesionales de la traducción y localización, personas que gestionan la calidad lingüística, e ingenieras e ingenieros de aprendizaje automático que desean construir o perfeccionar enfoques sistemáticos y basados en estándares para evaluar la calidad de las traducciones.
+Les damos la bienvenida a este curso sobre **Sistemas de Gestión de Calidad en Traducción** fundamentados en el marco de Métricas de Calidad Multidimensional (MQM, por sus siglas en inglés). El curso está dirigido a profesionales de la traducción y localización, personas que gestionan la calidad lingüística, y personas que practican la ingeniería de aprendizaje automático que desean construir o perfeccionar enfoques sistemáticos y basados en normaes para evaluar la calidad de las traducciones.
 
 ## Gestión de la calidad en traducción
 
@@ -10,27 +10,27 @@ Bienvenidas y bienvenidos a este curso sobre **Sistemas de Gestión de Calidad e
 
 **Gestión de la calidad en traducción** ofrece una visión general de cómo gestionar y evaluar de manera sistemática la calidad de las traducciones a lo largo de todo el proceso de producción.
 
-La presentación enmarca la traducción como una **cadena entrada-proceso-salida**: el texto fuente y los materiales de referencia son las entradas; las personas traductoras —humanas o sistemas de traducción automática— llevan a cabo el proceso; y la traducción resultante se evalúa como salida. Sin embargo, la gestión de la calidad abarca todo el flujo de trabajo, no solo la revisión final.
+La presentación enmarca la traducción como una **cadena entrada-proceso-salida**: el texto fuente y los materiales de referencia son las entradas; las personas traductoras o sistemas de traducción automática llevan a cabo el proceso; y la traducción resultante se evalúa como salida. Sin embargo, la gestión de la calidad abarca todo el flujo de trabajo, no solo la revisión final.
 
 Con base en la **ISO 9001**, la presentación describe cinco componentes de un sistema de gestión de calidad: planificación, control, evaluación, aseguramiento y mejora de la calidad. Estos componentes se corresponden con un ciclo continuo de **planificar-hacer-verificar-actuar**, que debe aplicarse en cada etapa del flujo de trabajo.
 
-Entre los temas principales se aborda el **proceso TEP** (traducción, edición y corrección de pruebas), con énfasis en evitar cambios de preferencia personal sin fundamento y en vincular las evaluaciones de exactitud con las especificaciones del proyecto. Asimismo, se distingue entre **calidad holística** (correspondencia con el texto fuente y legibilidad en conjunto) y **calidad analítica** (identificación de errores individuales mediante marcos como las Métricas de Calidad Multidimensional o MQM).
+Entre los temas principales se aborda el **proceso de traducción, edición y corrección de estilo**, con énfasis en evitar cambios de preferencia personal sin fundamento y en vincular las evaluaciones de exactitud con las especificaciones del proyecto. Asimismo, se distingue entre **calidad holística** (correspondencia con el texto fuente y legibilidad en conjunto) y **calidad analítica** (identificación de errores individuales mediante marcos como las Métricas de Calidad Multidimensional o MQM).
 
-Otros conceptos tratados incluyen los **niveles de gravedad de errores** en MQM (neutro, menor, mayor y crítico), así como la importancia de la **confiabilidad intra e interevaluadora** para garantizar evaluaciones consistentes a lo largo del tiempo y entre distintas personas evaluadoras. La presentación subraya que la gestión de calidad es especialmente relevante en la era actual de la IA generativa y la traducción automática.
+Otros conceptos tratados incluyen los **niveles de gravedad de errores** en MQM (neutro, menor, mayor y crítico), así como la importancia de la **confiabilidad intra e interevaluador** para garantizar evaluaciones consistentes a lo largo del tiempo y entre distintas personas evaluadoras. La presentación subraya que la gestión de calidad es especialmente relevante en la era actual de la IA generativa y la traducción automática.
 
 ## Una nota sobre MQM
 
-El marco de **Métricas de Calidad Multidimensional (MQM)** es la base del SGCT que se presenta en este curso. Ofrece una tipología de errores jerárquica que permite evaluaciones de calidad consistentes y reproducibles en distintos pares de idiomas, tipos de contenido y entornos de producción.
+El marco de **Métricas de Calidad Multidimensional (MQM)** es la base del sistemas de gestión de calidad en traducción que se presenta en este curso. Ofrece una tipología de errores jerárquica que permite evaluaciones de calidad consistentes y reproducibles en distintos pares de idiomas, tipos de contenido y entornos de producción.
 
 > MQM no es una puntuación única: es un vocabulario estructurado para describir qué salió mal, dónde y con qué nivel de gravedad.
 
-Esta distinción es fundamental para todo lo que sigue. Una puntuación numérica de calidad indica *que* algo está mal. MQM indica *qué*, *dónde* y *cuánto importa*.
+Esta distinción es fundamental para todo lo que sigue. Una puntuación numérica de calidad indica que algo está mal. MQM indica *qué*, *dónde* y *cuánto importa*.
 
 ## Qué aprenderás en este curso
 
 A lo largo de ocho lecciones, desarrollarás un conocimiento práctico de:
 
-- El panorama de estándares que rigen la calidad en traducción, incluyendo **ISO 17100** y **ASTM F2575**
+- El panorama de normaes que rigen la calidad en traducción, incluyendo **ASTM F2575**
 - La **tipología de errores de MQM** y su correspondencia con la puntuación de calidad holística
 - **Flujos de trabajo de gestión de calidad** empleados en entornos profesionales de proveedoras de servicios lingüísticos
 - Cómo configurar y utilizar un **entorno de anotación de errores**
@@ -55,10 +55,10 @@ Crea un **póster personal de calidad**, es decir, una sola imagen que capture t
 
 El póster no necesita ser perfecto. Solo debe ser honesto. Una vez que lo hayas creado, considera compartirlo con compañeras y compañeros de equipo, personas mentoras o colegas del sector. Úsalo como punto de partida para una conversación: ¿En qué coinciden sus definiciones? ¿En qué difieren? ¿Puede el grupo llegar a una definición de trabajo armonizada, o el ejercicio revela que armonizar es más difícil de lo que parece?
 
-Vale la pena quedarse con esa tensión. En las lecciones que siguen, encontrarás marcos como MQM diseñados precisamente para tender puentes entre perspectivas individuales y construir estándares de evaluación compartidos. Llegar a esas lecciones con tu propia definición ya articulada te dará un punto de comparación concreto.
+Vale la pena quedarse con esa tensión. En las lecciones que siguen, encontrarás marcos como MQM diseñados precisamente para tender puentes entre perspectivas individuales y construir normaes de evaluación compartidos. Llegar a esas lecciones con tu propia definición ya articulada te dará un punto de comparación concreto.
 
 ---
 
-## A continuación: Enfoque basado en estándares para la calidad en traducción
+## A continuación: Enfoque basado en normaes para la calidad en traducción
 
 En la siguiente lección, estableceremos la base normativa que guía todo el enfoque de calidad en traducción cubierto en este curso.

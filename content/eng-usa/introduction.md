@@ -30,7 +30,7 @@ This distinction is fundamental to everything that follows. A single numeric qua
 
 Over eight lessons, you will develop a working knowledge of:
 
-- The standards landscape governing translation quality, including **ISO 17100** and **ASTM F2575**
+- The standards landscape governing translation quality, including **ASTM F2575**
 - The **MQM error typology** and how it maps to holistic quality scoring
 - Practical **quality management workflows** used in professional LSP environments
 - How to set up and use an **error annotation environment**

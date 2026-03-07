@@ -51,7 +51,7 @@ A continuación presentamos la tipología de errores personalizada, junto con un
 
 | Tipo | Descripción |
 | ----- | ----- |
-| Gramática | Los textos deben seguir las reglas gramaticales de la lengua. Según la audiencia, es posible que las reglas gramaticales consideradas "estándar" no sean las más adecuadas. |
+| Gramática | Los textos deben seguir las reglas gramaticales de la lengua. Según la audiencia, es posible que las reglas gramaticales consideradas "norma" no sean las más adecuadas. |
 | Ortografía | La corrección ortográfica implica no solo evitar erratas, sino también el uso correcto de guiones y mayúsculas. La ortografía debe corresponder a la variante lingüística en la que debía redactarse el texto. |
 | Puntuación | La puntuación no se usa de la misma manera en todas las lenguas. Debe emplearse conforme a las convenciones de la lengua meta. |
 

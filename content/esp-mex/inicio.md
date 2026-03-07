@@ -1,6 +1,6 @@
 # Loc401: Sistemas de gestión de calidad en traducción basados en MQM
 
-¡Les damos la bienvenida a Loc401! Este curso introduce a las personas que producen traducción en los sistemas contemporáneos de gestión de calidad en traducción, con énfasis en el marco de Métricas de Calidad Multidimensionales (MQM, por sus siglas en inglés). Quienes participen en el curso explorarán enfoques basados en estándares internacionales para la evaluación y gestión de la calidad en traducción, conforme a las normas del comité técnico ASTM F43 sobre Servicios y Productos Lingüísticos.
+¡Les damos la bienvenida a Loc401! Este curso introduce a las personas que producen traducción en los sistemas contemporáneos de gestión de calidad en traducción, con énfasis en el marco de Métricas de Calidad Multidimensionales (MQM, por sus siglas en inglés). Quienes participen en el curso explorarán enfoques basados en normaes internacionales para la evaluación y gestión de la calidad en traducción, conforme a las normas del comité técnico ASTM F43 sobre Servicios y Productos Lingüísticos.
 
 <figure class="image-center image-lg">
   <img src="../../assets/OpenSource_ClassCover.png" alt="Silueta de árbol de mangle con raíces, centrada en un círculo blanco sobre fondo azul claro" />
@@ -27,7 +27,7 @@ Este curso está diseñado para:
 - Personas que traducen y editan, y buscan formalizar su metodología de evaluación de calidad
 - Quienes gestionan proyectos de traducción y son responsables de supervisar flujos de trabajo de calidad
 - Personal de ingeniería de localización y liderazgo lingüístico que trabaja con herramientas de anotación y métricas de calidad
-- Proveedores de servicios lingüísticos que deseen alinear sus procesos de calidad con estándares internacionales
+- Proveedores de servicios lingüísticos que deseen alinear sus procesos de calidad con normaes internacionales
 - Equipos de inteligencia artificial y traducción automática que necesiten generar datos de entrenamiento anotados de alta calidad
 - Cualquier persona involucrada en el diseño o la implementación de sistemas de gestión de calidad en traducción
 

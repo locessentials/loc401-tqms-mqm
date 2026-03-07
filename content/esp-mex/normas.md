@@ -26,9 +26,9 @@ Pueden leer más sobre los criterios que orientaron el diseño de estas etiqueta
 | ----- | ----- |
 | • Traducción automática sin revisar<br>• Traducción generada por LLM sin verificación<br>• Traducciones realizadas por personas bilingües no profesionales | • Traducción elaborada manualmente por profesionales<br>• Traducción automática con posedición profesional<br>• Traducción no profesional con edición profesional |
 
-## Especificaciones estructuradas de traducción basadas en estándares
+## Especificaciones estructuradas de traducción basadas en normaes
 
-Revisemos las [Especificaciones Estructuradas de Traducción Basadas en Estándares](https://www.tranquality.info/specs/) de Tranquality, desarrolladas con base en ASTM F2575, para comprender algunos de los tipos de parámetros que conviene definir al realizar una traducción.
+Revisemos las [Especificaciones Estructuradas de Traducción Basadas en normaes](https://www.tranquality.info/specs/) de Tranquality, desarrolladas con base en ASTM F2575, para comprender algunos de los tipos de parámetros que conviene definir al realizar una traducción.
 
 ### Información sobre el contenido fuente
 
