@@ -13,7 +13,7 @@ Aunque este curso se centra en MQM, es importante señalar que este marco puede 
 
 ## Tipología MQM personalizada
 
-La tipología núcleo de MQM incluye treinta y ocho tipos de error en siete categorías. Aquí presentamos una versión personalizada —y simplificada— de esa tipología núcleo, con **diecisiete tipos de error** en **seis categorías**. El criterio detrás de esta decisión es que, cuantos más tipos de error deban verificar las personas evaluadoras, mayor es la probabilidad de que los errores se clasifiquen incorrectamente o pasen inadvertidos.
+La tipología núcleo de MQM incluye treinta y ocho tipos de error en siete categorías. Aquí presentamos una versión personalizada y simplificada de esa tipología núcleo, con **diecisiete tipos de error** en **seis categorías**. El criterio detrás de esta decisión es que, cuantos más tipos de error deban verificar las personas evaluadoras, mayor es la probabilidad de que los errores se clasifiquen incorrectamente o pasen inadvertidos.
 
 Si bien los sistemas tecnológicos que incorporan la tipología MQM suelen permitir que una sola versión se aplique a todos los tipos de contenido y proyectos, recomendamos diseñar tipologías específicas que atiendan los tipos de error relevantes para cada tipo de contenido, tomando como base las especificaciones establecidas para el trabajo.
 
@@ -33,8 +33,8 @@ A continuación presentamos la tipología de errores personalizada, junto con un
 | Tipo | Descripción |
 | ----- | ----- |
 | Traducibilidad | Todo el texto que debía traducirse fue traducido. Ningún texto que debía conservarse sin traducir fue traducido. |
-| Completitud | Una traducción completa evita generalmente las omisiones y las adiciones, así como la sobretraducción y la infratraducción. La sobretraducción introduce una especificidad incorrecta (por ejemplo, se nombra un tipo específico de flor en lugar de referirse a las flores en general); la infratraducción introduce generalizaciones incorrectas (por ejemplo, se menciona una herramienta específica y se hace referencia a ella de forma genérica). |
-| Mala traducción | Las malas traducciones son resultado de haber malinterpretado el sentido transmitido en el texto fuente. |
+| Completitud | Una traducción completa evita generalmente las omisiones y las adiciones, así como la sobretraducción y la subtraducción. La sobretraducción introduce una especificidad incorrecta (por ejemplo, se nombra un tipo específico de flor en lugar de referirse a las flores en general); la subtraducción introduce generalizaciones incorrectas (por ejemplo, se menciona una herramienta específica y se hace referencia a ella de forma genérica). |
+| Traducción errónea | Las traducciones erróneas son resultado de haber malinterpretado el sentido transmitido en el texto fuente. |
 
 ### Estilo
 
