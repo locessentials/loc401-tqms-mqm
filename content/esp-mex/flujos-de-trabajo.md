@@ -1,10 +1,10 @@
 # Lección 3: Flujos de trabajo en la gestión de calidad de traducción
 
-Esta lección presenta los componentes de un Sistema de Gestión de Calidad en Traducción (SGCT) diseñado para capacitar a las personas evaluadoras en la evaluación del desempeño de traducciones para un tipo de contenido específico. El sistema se divide en tres etapas superpuestas que se repiten de manera cíclica: **preparación**, **trabajo con las personas evaluadoras** y **análisis y lecciones aprendidas**.
+Esta lección presenta los componentes de un Sistema de Gestión de Calidad en Traducción diseñado para capacitar a las personas evaluadoras en la evaluación del desempeño de traducciones para un tipo de contenido específico. El sistema se divide en tres etapas superpuestas que se repiten de manera cíclica: **preparación**, **trabajo con las personas evaluadoras** y **análisis y lecciones aprendidas**.
 
 El sistema presentado aquí parte del supuesto de que un equipo de personas evaluadoras trabajará en conjunto en los mismos proyectos de evaluación de calidad en traducción (ECT). Tras cada proyecto, se mide la consistencia de sus resultados. Hasta que el equipo alcance el umbral de concordancia deseado, sus anotaciones no se despliegan en entornos de producción activa. Una vez alcanzado ese umbral, las anotaciones pueden utilizarse para capacitar a nuevas personas evaluadoras, proporcionar retroalimentación al personal traductor y enseñar a los LLMs a realizar evaluaciones de calidad.
 
-El SGCT descrito aquí requiere que el equipo de evaluación alcance el umbral de concordancia deseado, ya que la evaluación de calidad es una actividad altamente subjetiva. Sin un proceso de armonización, cada integrante del equipo producirá resultados que pueden ser correctos de manera individual, pero inconsistentes respecto a los de sus pares. Cuando los resultados son inconsistentes, se introduce ruido en los entornos de producción, lo que dificulta que el personal traductor, las personas evaluadoras y los LLMs puedan mejorar a partir de esos datos.
+El sistema de gestión de calidad en traducción descrito aquí requiere que el equipo de evaluación alcance el umbral de concordancia deseado, ya que la evaluación de calidad es una actividad altamente subjetiva. Sin un proceso de armonización, cada integrante del equipo producirá resultados que pueden ser correctos de manera individual, pero inconsistentes respecto a los de sus pares. Cuando los resultados son inconsistentes, se introduce ruido en los entornos de producción, lo que dificulta que el personal traductor, las personas evaluadoras y los LLMs puedan mejorar a partir de esos datos.
 
 ## Concordancia entre personas evaluadoras: el desafío de llegar a acuerdos
 
@@ -22,7 +22,7 @@ Es a través del trabajo conjunto en una serie de proyectos que se logra una may
 
 ## Generalización del flujo de trabajo
 
-El siguiente cuadro ilustra los roles y las etapas involucradas en el establecimiento de un SGCT para un tipo de contenido específico. El flujo de trabajo requiere que las personas evaluadoras completen varios proyectos, incluidos proyectos de **capacitación tecnológica** y de **capacitación en tipología**. Una vez concluida la capacitación, el equipo de evaluación continúa realizando proyectos de ECT adicionales como parte de su formación, hasta alcanzar el umbral de concordancia deseado.
+El siguiente cuadro ilustra los roles y las etapas involucradas en el establecimiento de un sistema de gestión de calidad en traducción para un tipo de contenido específico. El flujo de trabajo requiere que las personas evaluadoras completen varios proyectos, incluidos proyectos de **capacitación tecnológica** y de **capacitación en tipología**. Una vez concluida la capacitación, el equipo de evaluación continúa realizando proyectos de ECT adicionales como parte de su formación, hasta alcanzar el umbral de concordancia deseado.
 
 | | 1 | 2 | 3 | 4 | 5 |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -59,7 +59,7 @@ Este proceso puede parecer muy laborioso para establecer un sistema de gestión 
 
 ## Aprendizaje activo
 
-Reflexiona sobre todas las personas y los materiales que trabajan en conjunto para construir el SGCT descrito aquí.
+Reflexiona sobre todas las personas y los materiales que trabajan en conjunto para construir el sistema de gestión de calidad en traducción descrito aquí.
 
 1. Resume los tipos de archivos que se necesitan.
 2. Decide cómo presentarías estos materiales. ¿En qué orden se presentarían y utilizarían?

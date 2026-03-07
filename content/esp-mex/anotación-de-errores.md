@@ -1,6 +1,6 @@
 # Lección 4: Entorno de anotación de errores
 
-Como se describió en la lección anterior, el SGCT presentado aquí requiere que los proyectos se evalúen dentro de un entorno de anotación. En esta lección se analizan dos tipos de entornos de anotación, junto con sus ventajas y desventajas. En particular, se comparan las **herramientas de entorno de traducción** tradicionales con las **herramientas de anotación profesional** utilizadas en el aprendizaje automático.
+Como se describió en la lección anterior, los sistemas de gestión de calidad en traducción presentado aquí requiere que los proyectos se evalúen dentro de un entorno de anotación. En esta lección se analizan dos tipos de entornos de anotación, junto con sus ventajas y desventajas. En particular, se comparan las **herramientas de entorno de traducción** tradicionales con las **herramientas de anotación profesional** utilizadas en el aprendizaje automático.
 
 ## Las limitaciones de las herramientas de entorno de traducción
 
@@ -12,7 +12,7 @@ Esta visión se extiende también a la localización. En lugar de diseñar siste
 
 En la práctica, la traducción debería adoptar un enfoque de documento completo, en el que el texto se escriba como una unidad cohesiva, considerando también el contexto más amplio del [contenido relacionado](https://www.ttt.org/wp-content/uploads/2022/05/Melby-Foster-Context-in-Translation.pdf) que existe sobre un tema en el mundo. El artículo "[Escaping the sentence-level paradigm in machine translation](https://arxiv.org/pdf/2304.12959)" identifica desafíos concretos de los entornos de traducción segmentada que podrían resolverse tomando en cuenta un contexto más amplio, como elementos textuales tales como la anáfora, la deixis y la conectividad discursiva.
 
-Dado que las herramientas de entorno de traducción —y también los sistemas de traducción automática— están diseñados para producir traducciones literales y segmentadas que resultan de baja calidad, construir un SGCT sobre esta metodología estructuralmente deficiente no puede subsanar sus carencias de fondo. La pregunta más urgente es si la traducción a nivel de oración debería seguir siendo el norma de la industria.
+Dado que las herramientas de entorno de traducción —y también los sistemas de traducción automática— están diseñados para producir traducciones literales y segmentadas que resultan de baja calidad, construir un sistema de gestión de calidad en traducción sobre esta metodología estructuralmente deficiente no puede subsanar sus carencias de fondo. La pregunta más urgente es si la traducción a nivel de oración debería seguir siendo el norma de la industria.
 
 | **Desventajas** | **Ventajas** |
 | ----- | ----- |

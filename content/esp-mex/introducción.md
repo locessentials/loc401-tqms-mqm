@@ -20,7 +20,7 @@ Otros conceptos tratados incluyen los **niveles de gravedad de errores** en MQM 
 
 ## Una nota sobre MQM
 
-El marco de **Métricas de Calidad Multidimensional (MQM)** es la base del sistemas de gestión de calidad en traducción que se presenta en este curso. Ofrece una tipología de errores jerárquica que permite evaluaciones de calidad consistentes y reproducibles en distintos pares de idiomas, tipos de contenido y entornos de producción.
+El marco de **Métricas de Calidad Multidimensional (MQM)** es la base de los sistemas de gestión de calidad en traducción que se presenta en este curso. Ofrece una tipología de errores jerárquica que permite evaluaciones de calidad consistentes y reproducibles en distintos pares de idiomas, tipos de contenido y entornos de producción.
 
 > MQM no es una puntuación única: es un vocabulario estructurado para describir qué salió mal, dónde y con qué nivel de gravedad.
 
