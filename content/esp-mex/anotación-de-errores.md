@@ -28,9 +28,9 @@ Para quienes deseen realizar evaluaciones de calidad rigurosas y reutilizables, 
 
 ## Label Studio
 
-[Label Studio](https://labelstud.io/guide/get_started) es una plataforma de anotación de datos de código abierto diseñada para construir y gestionar conjuntos de datos etiquetados para el aprendizaje automático. A diferencia de las herramientas CAT, está construida desde cero para flujos de trabajo de anotación estructurados y exportables, lo que la hace especialmente adecuada para la evaluación de calidad en traducción basada en MQM. Label Studio ofrece interfaces de etiquetado altamente configurables, lo que permite adaptar las tipologías a tipos de contenido y proyectos específicos.
+[Label Studio](https://labelstud.io/guide/get_started) es una plataforma de anotación de datos de código abierto diseñada para construir y gestionar conjuntos de datos etiquetados para el aprendizaje automático. A diferencia de las herramientas TAC, está construida desde cero para flujos de trabajo de anotación estructurados y exportables, lo que la hace especialmente adecuada para la evaluación de calidad en traducción basada en MQM. Label Studio ofrece interfaces de etiquetado altamente configurables, lo que permite adaptar las tipologías a tipos de contenido y proyectos específicos.
 
-### Entornos de anotación vs. herramientas CAT para la evaluación MQM
+### Entornos de anotación vs. herramientas TAC para la evaluación MQM
 
 **Ventajas**
 - Los datos de anotación pueden exportarse fácilmente para su uso en pipelines de aprendizaje automático y en análisis transversales entre proyectos
@@ -66,14 +66,9 @@ Para quienes deseen realizar evaluaciones de calidad rigurosas y reutilizables, 
 **Al concluir la anotación**
 
 - Revisa tus resultados en el panel de Regiones y verifica que todas las anotaciones estén completas y sean correctas
-- Según la naturaleza de los errores, deja un comentario sobre cualquier problema a nivel de documento
+- Según la naturaleza de los errores, deja un comentario sobre cualquier problema que se repite a lo largo del documento
 - Asigna calificaciones generales de correspondencia y legibilidad, con un comentario que explique tus puntuaciones
 - Envía tu evaluación
-
-**Notas importantes**
-
-- Al trabajar en el entorno de Label Studio, tendrás acceso a todos los proyectos del sistema. Por favor, trabaja únicamente en los proyectos que te hayan sido asignados. Los proyectos relacionados con LocEssentials están marcados con una portada azul en el panel de control.
-- Tus anotaciones se almacenan junto con las de otras personas evaluadoras. Evita consultar las anotaciones ajenas hasta haber completado tu propia revisión, para no sesgar tus resultados.
 
 ### Aprendizaje activo
 
@@ -90,7 +85,14 @@ En el panel de control verás dos proyectos con fondo azul: uno se llama TQMS - 
   <figcaption>El panel de proyectos de Label Studio con los dos proyectos de capacitación asignados para esta lección.</figcaption>
 </figure>
 
-Comienza con el proyecto Tech Training, cuyo único objetivo es familiarizarte con la navegación de la interfaz. Cuando te sientas lista o listo, avanza al proyecto Typology Training para completarlo.
+Comienza con el proyecto Tech Training, cuyo único objetivo es familiarizarte con la navegación de la interfaz. Cuando puedes navegar el sistema con comodidad, avanza al proyecto Typology Training para completarlo.
+
+**Notas importantes**
+
+- Al trabajar en el entorno de Label Studio, tendrás acceso a todos los proyectos del sistema. Por favor, trabaja únicamente en los proyectos que te hayan sido asignados. Los proyectos relacionados con LocEssentials están marcados con una portada azul en el panel de control.
+- Tus anotaciones se almacenan junto con las de otras personas evaluadoras. Evita consultar las anotaciones ajenas hasta haber completado tu propia revisión, para no sesgar tus resultados.
+
+**Reflexión**
 
 Mientras trabajas, reflexiona sobre las siguientes preguntas:
 - ¿Cómo se compara el entorno de Label Studio con la edición en una herramienta CAT?

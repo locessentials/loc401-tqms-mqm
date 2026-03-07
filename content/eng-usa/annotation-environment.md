@@ -66,14 +66,9 @@ For practitioners who want to perform rigorous, reusable quality evaluations, a 
 **After you've finished your annotation**
 
 - Review your results in the Regions panel and ensure all annotations are complete and correct
-- Based on the nature of the errors, leave a comment on any document-level issues
+- Based on the nature of the errors, leave a comment on any issues that repeat throughout the document
 - Give overall correspondence and readability ratings with a comment explaining your scores
 - Submit your evaluation
-
-**Important notes**
-
-- When working in the Label Studio environment, you will have access to all projects in the system. Please work only in the projects assigned to you. Projects related to LocEssentials are marked with a blue cover in the dashboard.
-- Your annotations are stored alongside those of other annotators. Avoid viewing others' annotations until you have completed your own review to prevent bias.
 
 ### Active Learning
 
@@ -91,6 +86,13 @@ You'll see two projects in the dashboard with a blue background. One is named TQ
 </figure>
 
 Start with the Tech Training project, where the only goal is to get comfortable navigating the interface. When you feel ready, move on to complete the Typology Training.
+
+**Important notes**
+
+- When working in the Label Studio environment, you will have access to all projects in the system. Please work only in the projects assigned to you. Projects related to LocEssentials are marked with a blue cover in the dashboard.
+- Your annotations are stored alongside those of other annotators. Avoid viewing others' annotations until you have completed your own review to prevent bias.
+
+**Reflection**
 
 As you work, reflect on these questions:
 - How does the Label Studio environment compare to editing in a CAT tool?
