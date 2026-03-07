@@ -1,0 +1,40 @@
+# LocEssentials
+
+> Professional courses in translation quality management, localization, and MQM-based quality frameworks. Courses are offered in U.S. English (eng-usa) and Mexican Spanish (esp-mex).
+
+LocEssentials develops open-access professional development courses for translators, language quality managers, and localization engineers. Courses are hosted on subdomains of locessentials.com and are fully accessible without registration.
+
+## Current Course: Translation Quality Management Systems Based on MQM
+
+This course covers standards-based translation quality evaluation using the Multidimensional Quality Metrics (MQM) framework. It is designed for practitioners in professional LSP environments.
+
+### Course Outline (eng-usa)
+
+- [Introduction: Translation Quality Management Systems Based on MQM](https://loc401.locessentials.com/content/eng-usa/introduction.md)
+- [Lesson 1: Standards-Based Approach to Translation Quality](https://loc401.locessentials.com/content/eng-usa/standards.md)
+- [Lesson 2: MQM Error Typology & Holistic Quality](https://loc401.locessentials.com/content/eng-usa/mqm-holistic-quality.md)
+- [Lesson 3: Translation Quality Management Workflows](https://loc401.locessentials.com/content/eng-usa/tqm-workflows.md)
+- [Lesson 4: Error Annotation Environment](https://loc401.locessentials.com/content/eng-usa/annotation-environment.md)
+- [Lesson 5: Exploratory Data Analysis](https://loc401.locessentials.com/content/eng-usa/data-analysis.md)
+- [Lesson 6: Root Cause Analysis and Preventative Action](https://loc401.locessentials.com/content/eng-usa/rca-prevention.md)
+- [Conclusion and Lessons Learned](https://loc401.locessentials.com/content/eng-usa/conclusion.md)
+
+### Esquema del curso (esp-mex)
+
+- [Introducción: Sistemas de gestión de calidad en traducción basados en MQM](https://loc401.locessentials.com/content/esp-mex/introducción.md)
+- [Lección 1: Enfoque de la calidad de traducción basado en normas](https://loc401.locessentials.com/content/esp-mex/normas.md)
+- [Lección 2: Tipología de errores MQM y calidad holística](https://loc401.locessentials.com/content/esp-mex/mqm-calidad-holística.md)
+- [Lección 3: Flujos de trabajo en la gestión de calidad de traducción](https://loc401.locessentials.com/content/esp-mex/flujos-de-trabajo-gct.md)
+- [Lección 4: Entorno de anotación de errores](https://loc401.locessentials.com/content/esp-mex/anotación-de-errores.md)
+- [Lección 5: Análisis exploratorio de datos](https://loc401.locessentials.com/content/esp-mex/análisis-exploratorio.md)
+- [Lección 6: Análisis de causa raíz y acción preventiva](https://loc401.locessentials.com/content/esp-mex/análisis-causa-raíz.md)
+- [Conclusión y lecciones aprendidas](https://loc401.locessentials.com/content/esp-mex/conclusión.md)
+
+## About LocEssentials
+
+LocEssentials courses are developed under an open source model and are fully accessible without registration on locessentials.com subdomains. Course content is authored in Markdown and available directly as .md files alongside the rendered HTML versions.
+
+## Optional: Full content index
+
+- [Course JSON structure](https://loc401.locessentials.com/course.json)
+- [Sitemap](https://loc401.locessentials.com/sitemap.xml)

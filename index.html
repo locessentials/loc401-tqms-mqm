@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LocEssentials — Translation Quality Management</title>
+  <meta name="description" content="A professional course on Translation Quality Management Systems based on the MQM framework." />
+
+  <!-- Favicon -->
+  <link rel="icon" href="assets/favicon.ico" />
+
+  <!-- Fonts -->
+
+  <!-- marked.js — Markdown renderer -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+
+  <!-- Course styles -->
+  <link rel="stylesheet" href="course.css" />
+</head>
+<body>
+
+  <!-- ===================== TOPBAR ===================== -->
+  <header id="topbar">
+
+    <a id="topbar-logo" href="#" onclick="return false;">
+      <!-- Replace src with actual logo path when available -->
+      <img src="assets/LocCapTransparentTilted.png"
+           alt="LocEssentials logo — two-toned blue baseball cap with LOC in white lettering"
+           onerror="this.style.display='none'" />
+      <span class="logo-text">LocEssentials</span>
+    </a>
+
+    <div id="topbar-right">
+      <div id="lang-toggle" role="group" aria-label="Language selection">
+        <button class="lang-btn active" data-lang="eng-usa" aria-pressed="true">
+          eng-usa
+        </button>
+        <button class="lang-btn" data-lang="esp-mex" aria-pressed="false">
+          esp-mex
+        </button>
+      </div>
+    </div>
+
+  </header>
+
+  <!-- ===================== SIDEBAR ===================== -->
+  <nav id="sidebar" aria-label="Course navigation">
+
+    <!-- Course title -->
+    <div id="course-title-block">
+      <p id="course-number"></p>
+      <p id="course-title"></p>
+    </div>
+
+    <!-- Main navigation links (Course Home, Outline, About, Contact) -->
+    <p class="sidebar-section-label">Navigation</p>
+    <div id="main-links-nav"></div>
+
+    <div class="sidebar-divider"></div>
+
+    <!-- Lesson outline -->
+    <p class="sidebar-section-label" id="lessons-title">Course Outline</p>
+    <div id="lessons-nav"></div>
+
+  </nav>
+
+  <!-- ===================== MAIN CONTENT ===================== -->
+  <main id="main">
+    <div id="content">
+      <!-- Markdown content renders here -->
+    </div>
+  </main>
+
+  <!-- Course logic -->
+  <script src="course.js"></script>
+
+</body>
+</html>

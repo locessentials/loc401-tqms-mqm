@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loc401.locessentials.com/sitemap.xml
+
+# LLM crawlers — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /

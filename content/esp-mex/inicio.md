@@ -1,0 +1,1 @@
+# Loc 401: Sistemas de gestión de calidad en traducción basados en MQM

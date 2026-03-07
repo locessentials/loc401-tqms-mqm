@@ -1,0 +1,1 @@
+# Lección 6: Análisis de causa raíz y acción preventiva

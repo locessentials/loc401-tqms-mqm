@@ -1,0 +1,184 @@
+{
+  "eng-usa": {
+    "siteName": "LocEssentials",
+    "siteDescription": "Professional courses in translation quality management, localization, and MQM frameworks.",
+    "mainLinks": [
+      {
+        "title": "Course Home",
+        "label": "Course Home",
+        "url": "content/eng-usa/index.md",
+        "icon": "📘"
+      },
+      {
+        "title": "Outline",
+        "label": "Outline",
+        "url": "content/eng-usa/outline.md",
+        "icon": "🗺️"
+      },
+      {
+        "title": "About",
+        "label": "About",
+        "url": "content/eng-usa/about.md",
+        "icon": "📋"
+      },
+      {
+        "title": "Contact",
+        "label": "Contact",
+        "url": "content/eng-usa/contact.md",
+        "icon": "💬"
+      }
+    ],
+    "lessonsTitle": "Course Outline",
+    "lessons": [
+      {
+        "number": 0,
+        "title": "Introduction: Translation Quality Management Systems Based on MQM",
+        "focusKeyword": "translation quality management MQM",
+        "description": "An orientation to Translation Quality Management Systems (TQMS) grounded in the MQM framework, covering course structure and learning objectives.",
+        "url": "content/eng-usa/introduction.md"
+      },
+      {
+        "number": 1,
+        "title": "Lesson 1: Standards-Based Approach to Translation Quality",
+        "focusKeyword": "translation quality standards ISO 17100 ASTM F2575",
+        "description": "How ISO 17100 and ASTM F2575 define standards-based translation quality, and how these frameworks apply in professional LSP environments.",
+        "url": "content/eng-usa/standards.md"
+      },
+      {
+        "number": 2,
+        "title": "Lesson 2: MQM Error Typology & Holistic Quality",
+        "focusKeyword": "MQM error typology holistic quality scoring",
+        "description": "A deep dive into the MQM error typology — categories, subcategories, and severity levels — and how they map to holistic quality scoring.",
+        "url": "content/eng-usa/mqm-holistic-quality.md"
+      },
+      {
+        "number": 3,
+        "title": "Lesson 3: Translation Quality Management Workflows",
+        "focusKeyword": "translation quality management workflow LSP",
+        "description": "Practical TQM workflow design for language service providers, including review cycles, handoff points, and quality gates.",
+        "url": "content/eng-usa/tqm-workflows.md"
+      },
+      {
+        "number": 4,
+        "title": "Lesson 4: Error Annotation Environment",
+        "focusKeyword": "translation error annotation MQM tools",
+        "description": "How to set up and use an error annotation environment for MQM-based translation quality evaluation, including tool configuration and annotator guidelines.",
+        "url": "content/eng-usa/annotation-environment.md"
+      },
+      {
+        "number": 5,
+        "title": "Lesson 5: Exploratory Data Analysis",
+        "focusKeyword": "translation quality metrics data analysis",
+        "description": "Applying exploratory data analysis to translation quality metrics data — identifying patterns, outliers, and trends across language pairs and content types.",
+        "url": "content/eng-usa/data-analysis.md"
+      },
+      {
+        "number": 6,
+        "title": "Lesson 6: Root Cause Analysis and Preventative Action",
+        "focusKeyword": "translation quality root cause analysis CAPA",
+        "description": "Structured root cause analysis (RCA) methods applied to recurring translation quality issues, and how to design corrective and preventative action (CAPA) plans.",
+        "url": "content/eng-usa/rca-prevention.md"
+      },
+      {
+        "number": 7,
+        "title": "Conclusion and Lessons Learned",
+        "focusKeyword": "translation quality management system implementation",
+        "description": "Synthesis of the full Translation Quality Management System course — key takeaways, implementation guidance, and next steps for practitioners.",
+        "url": "content/eng-usa/conclusion.md"
+      }
+    ],
+    "courseNumber": "Loc 401",
+    "courseTitle": "Translation Quality Management Systems Based on MQM"
+  },
+  "esp-mex": {
+    "siteName": "LocEssentials",
+    "siteDescription": "Cursos profesionales sobre gestión de calidad en traducción, localización y marcos MQM.",
+    "mainLinks": [
+      {
+        "title": "Inicio del curso",
+        "label": "Inicio del curso",
+        "url": "content/esp-mex/inicio.md",
+        "icon": "📗"
+      },
+      {
+        "title": "Esquema",
+        "label": "Esquema",
+        "url": "content/esp-mex/esquema.md",
+        "icon": "🗺️"
+      },
+      {
+        "title": "Acerca de",
+        "label": "Acerca de",
+        "url": "content/esp-mex/acerca-de.md",
+        "icon": "📋"
+      },
+      {
+        "title": "Contacto",
+        "label": "Contacto",
+        "url": "content/esp-mex/contacto.md",
+        "icon": "💬"
+      }
+    ],
+    "lessonsTitle": "Esquema del curso",
+    "lessons": [
+      {
+        "number": 0,
+        "title": "Introducción: Sistemas de gestión de calidad en traducción basados en MQM",
+        "focusKeyword": "gestión de calidad en traducción MQM",
+        "description": "Orientación general a los Sistemas de Gestión de Calidad en Traducción (SGCT) basados en el marco MQM, con estructura del curso y objetivos de aprendizaje.",
+        "url": "content/esp-mex/introducción.md"
+      },
+      {
+        "number": 1,
+        "title": "Lección 1: Enfoque de la calidad de traducción basado en normas",
+        "focusKeyword": "normas de calidad en traducción ISO 17100 ASTM F2575",
+        "description": "Cómo la ISO 17100 y la ASTM F2575 definen la calidad en traducción basada en normas, y su aplicación en entornos profesionales de proveedores de servicios lingüísticos.",
+        "url": "content/esp-mex/normas.md"
+      },
+      {
+        "number": 2,
+        "title": "Lección 2: Tipología de errores MQM y calidad holística",
+        "focusKeyword": "tipología de errores MQM puntuación de calidad holística",
+        "description": "Análisis detallado de la tipología de errores MQM — categorías, subcategorías y niveles de gravedad — y su correspondencia con la puntuación de calidad holística.",
+        "url": "content/esp-mex/mqm-calidad-holística.md"
+      },
+      {
+        "number": 3,
+        "title": "Lección 3: Flujos de trabajo en la gestión de calidad de traducción",
+        "focusKeyword": "flujos de trabajo gestión de calidad traducción PSL",
+        "description": "Diseño práctico de flujos de trabajo de gestión de calidad para proveedores de servicios lingüísticos, incluidos ciclos de revisión, puntos de transferencia y controles de calidad.",
+        "url": "content/esp-mex/flujos-de-trabajo.md"
+      },
+      {
+        "number": 4,
+        "title": "Lección 4: Entorno de anotación de errores",
+        "focusKeyword": "anotación de errores de traducción herramientas MQM",
+        "description": "Cómo configurar y utilizar un entorno de anotación de errores para la evaluación de calidad en traducción basada en MQM, incluyendo configuración de herramientas y pautas para anotadores.",
+        "url": "content/esp-mex/anotación-de-errores.md"
+      },
+      {
+        "number": 5,
+        "title": "Lección 5: Análisis exploratorio de datos",
+        "focusKeyword": "métricas de calidad en traducción análisis de datos",
+        "description": "Aplicación del análisis exploratorio de datos a métricas de calidad en traducción — identificación de patrones, valores atípicos y tendencias en distintos pares de lenguas y tipos de contenido.",
+        "url": "content/esp-mex/análisis-exploratorio.md"
+      },
+      {
+        "number": 6,
+        "title": "Lección 6: Análisis de causa raíz y acción preventiva",
+        "focusKeyword": "análisis de causa raíz calidad en traducción CAPA",
+        "description": "Métodos estructurados de análisis de causa raíz (ACR) aplicados a problemas recurrentes de calidad en traducción, y cómo diseñar planes de acción correctiva y preventiva (CAPA).",
+        "url": "content/esp-mex/causa-raíz-prevención.md"
+      },
+      {
+        "number": 7,
+        "title": "Conclusión y lecciones aprendidas",
+        "focusKeyword": "implementación de sistema de gestión de calidad en traducción",
+        "description": "Síntesis del curso completo sobre Sistemas de Gestión de Calidad en Traducción — conclusiones clave, orientación para la implementación y próximos pasos para profesionales.",
+        "url": "content/esp-mex/conclusión.md"
+      }
+    ],
+    "courseNumber": "Loc 401",
+    "courseTitle": "Sistemas de gestión de calidad en traducción basados en MQM"
+  }
+}

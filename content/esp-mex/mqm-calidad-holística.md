@@ -1,0 +1,1 @@
+# Lección 2: Tipología de errores MQM y calidad holística
