@@ -15,7 +15,7 @@ Special emphasis is placed on evaluating translations as complete documents rath
 Upon completing the Translation Quality Management Systems course, participants will be able to:
 
 1. **Interpret and apply** ASTM F43 standards and differentiate between MQM error typology and holistic document-level evaluation (correspondence and readability ratings) to critically assess their advantages and limitations.
-2. **Identify and annotate** translation errors using the MQM Core Typology, performing contextual evaluations of whole documents rather than isolated segments.
+2. **Identify and annotate** translation errors using an MQM typology, performing contextual evaluations of whole documents rather than isolated segments.
 3. **Calculate and interpret** annotator agreement metrics — including exact matching, F1 scores, and Kappa coefficients — to analyze performance data and develop targeted improvement plans.
 4. **Design quality management workflows** that integrate translation specifications, structured evaluation, and annotation guidelines for both human and machine translation processes.
 5. **Leverage quality-annotated data** to improve AI-driven translation systems and adapt quality management approaches across different content types and professional contexts.
