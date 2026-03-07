@@ -34,14 +34,10 @@ A lo largo de ocho lecciones, desarrollarás un conocimiento práctico de:
 - La **tipología de errores de MQM** y su correspondencia con la puntuación de calidad holística
 - **Flujos de trabajo de gestión de calidad** empleados en entornos profesionales de proveedoras de servicios lingüísticos
 - Cómo configurar y utilizar un **entorno de anotación de errores**
-- La aplicación del **análisis exploratorio de datos (AED)** a métricas de calidad en traducción
-- La realización de **análisis de causa raíz (ACR)** y la implementación de acciones correctivas y preventivas
+- La aplicación del **análisis exploratorio de datos** a métricas de calidad en traducción
+- La realización de **análisis de causa raíz** y la implementación de acciones correctivas y preventivas
 
 Las anotaciones de errores que se produzcan a lo largo del curso tienen aplicaciones más allá del control de calidad: pueden servir para capacitar a las personas evaluadoras en el uso consistente de MQM, como datos de ajuste fino para LLMs que realizan evaluación automática de calidad, y para generar retroalimentación dirigida que apoye la mejora continua del personal traductor. Traducciones humanas de mayor calidad, a su vez, pueden utilizarse como datos de entrenamiento para llevar a los LLMs al mismo nivel.
-
-## Aprendizaje activo
-
-Esperamos que una de las principales conclusiones que obtengan al completar este curso sea que la noción de calidad es subjetiva. Aunque podamos coincidir en algunas características de lo que hace que un producto traducido o localizado sea de calidad, cada persona define la calidad a su manera, y todas las perspectivas son válidas. Cuando los equipos trabajan en conjunto, es necesario armonizar esas ideas de calidad y garantizar que los sistemas estén diseñados para tomar en cuenta las necesidades de todas las personas involucradas.
 
 ## Aprendizaje activo
 
@@ -53,7 +49,7 @@ Crea un **póster personal de calidad**, es decir, una sola imagen que capture t
 - Incluir **al menos un elemento visual** (una imagen, diagrama, conjunto de íconos u otra ilustración) que represente tu perspectiva
 - Acompañarse de una **descripción de aproximadamente 150 palabras** que explique tus elecciones y lo que tu definición refleja sobre tu trayectoria y experiencia
 
-El póster no necesita ser perfecto. Solo debe ser honesto. Una vez que lo hayas creado, considera compartirlo con compañeras y compañeros de equipo, personas mentoras o colegas del sector. Úsalo como punto de partida para una conversación: ¿En qué coinciden sus definiciones? ¿En qué difieren? ¿Puede el grupo llegar a una definición de trabajo armonizada, o el ejercicio revela que armonizar es más difícil de lo que parece?
+El póster no necesita ser perfecto. Solo debe ser honesto. Una vez que lo hayas creado, considera compartirlo con las personas en tu equipo, personas mentoras o colegas del sector. Úsalo como punto de partida para una conversación: ¿En qué coinciden sus definiciones? ¿En qué difieren? ¿Puede el grupo llegar a una definición de trabajo armonizada, o el ejercicio revela que armonizar es más difícil de lo que parece?
 
 Vale la pena quedarse con esa tensión. En las lecciones que siguen, encontrarás marcos como MQM diseñados precisamente para tender puentes entre perspectivas individuales y construir normaes de evaluación compartidos. Llegar a esas lecciones con tu propia definición ya articulada te dará un punto de comparación concreto.
 

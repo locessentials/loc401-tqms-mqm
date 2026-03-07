@@ -41,10 +41,6 @@ The error annotations you produce throughout this course have applications beyon
 
 ## Active Learning
 
-We hope that one of the main takeaways that you have after completing this course is that the idea of quality is subjective. While we may agree on some characteristics of what makes quality translated and localized products, each person defines quality in their own way, and each of our perspectives is valid. When teams work together, it becomes necessary for people to harmonize their ideas of quality and make sure that systems are designed to take everyone's needs into account.
-
-## Active Learning
-
 Before diving into the official definitions and frameworks covered in this course, take a moment to reflect on what translation and localization quality means to *you*.
 
 Create a **personal quality poster**, that is, a single visual that captures your definition of translation and localization quality. Your poster should:
