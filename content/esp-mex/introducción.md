@@ -1,7 +1,3 @@
-Here is the translated version of the document:
-
----
-
 # Introducción: Sistemas de gestión de calidad en traducción basados en MQM
 
 Bienvenidas y bienvenidos a este curso sobre **Sistemas de Gestión de Calidad en Traducción (SGCT)** fundamentados en el marco de Métricas de Calidad Multidimensional (MQM, por sus siglas en inglés). El curso está dirigido a profesionales de la traducción y localización, personas que gestionan la calidad lingüística, e ingenieras e ingenieros de aprendizaje automático que desean construir o perfeccionar enfoques sistemáticos y basados en estándares para evaluar la calidad de las traducciones.
