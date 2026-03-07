@@ -78,7 +78,7 @@ Nuestro sistema incorpora una etiqueta de **marcador de calidad** que puede asig
 
 El marco MQM asigna niveles de gravedad a los errores de traducción: neutro, menor, mayor y crítico. Un error clasificado como neutro puede ser aquel en que una traducción alternativa sería mejor, aunque la existente sea correcta. Un error menor es aquel que no afecta la posibilidad de usar el contenido. Un error mayor sí afecta esa posibilidad. Un error crítico es aquel que podría causar daños severos, ya sea físicos o reputacionales.
 
-Dado que hemos incorporado marcadores de calidad a nuestra tipología personalizada, consideramos necesario pasar de "Niveles de gravedad" a "Niveles de impacto". Nuestros niveles se denominan **neutro**, **moderado**, **fuerte** y **bloqueador**, y cualquiera de ellos puede aplicarse con sentido tanto a errores como a marcadores de calidad.
+Dado que hemos incorporado marcadores de calidad a nuestra tipología personalizada, consideramos necesario pasar de "Niveles de gravedad" a "Niveles de impacto". Nuestros niveles se denominan **neutro**, **moderado**, **fuerte** y **contundente**, y cualquiera de ellos puede aplicarse con sentido tanto a errores como a marcadores de calidad.
 
 ## Calidad holística
 
