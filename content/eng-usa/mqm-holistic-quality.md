@@ -89,7 +89,7 @@ After marking individual errors and understanding the nature of the errors refle
 
 Both given such specifications as audience and purpose.
 
-Here, correspondence is how well the translation reflects the senses conveyed in the source, and readability is how well the translation would read to the specific audience the translation has been written for. If the text even contains one **strong** error, we tend to rate the translation as no more than a two in the correspondence category.
+Here, correspondence is how well the translation reflects the senses conveyed in the source, and readability is how well the translation would read to the specific audience the translation has been written for. If the text even contains one **strong** error, we tend to rate the translation as no more than a two in one or the other category, depending on the nature of the error.
 
 ## Effectiveness of the Translation
 

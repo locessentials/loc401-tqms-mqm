@@ -72,7 +72,7 @@ A continuación presentamos la tipología de errores personalizada, junto con un
 
 Una brecha que identificamos en el marco MQM es la ausencia de una forma natural de destacar los aspectos de una traducción que están particularmente bien logrados. Si bien identificar errores es fundamental, centrarse únicamente en los problemas implica desaprovechar una oportunidad clave: sin refuerzo positivo, las personas traductoras y quienes gestionan la calidad no se entrenan sistemáticamente para reconocer las fortalezas. Se pierde así la posibilidad de reforzar y desarrollar de manera consciente lo que alguien ya hace bien.
 
-Nuestro sistema incorpora una etiqueta de **marcador de calidad** que puede asignarse a cualquiera de las categorías anteriores (terminología, exactitud, estilo, etc.). El propósito de este marcador no es señalar traducciones que simplemente son correctas —eso debe ser la línea base—, sino destacar aquellas en las que la traducción ha resuelto un aspecto particularmente difícil del texto fuente.
+Nuestro sistema incorpora una etiqueta de **marcador de calidad** que puede asignarse a cualquiera de las categorías anteriores (terminología, exactitud, estilo, etc.). El propósito de este marcador no es señalar traducciones que simplemente son correctas como eso debe ser la línea base, sino destacar aquellas en las que la traducción ha resuelto un aspecto particularmente difícil del texto fuente.
 
 ### Niveles de impacto
 
@@ -89,7 +89,7 @@ Una vez marcados los errores individuales y comprendida la naturaleza de los err
 
 Ambas considerando las especificaciones establecidas, como audiencia y propósito.
 
-Aquí, la correspondencia es qué tan bien la traducción refleja los sentidos transmitidos en el texto fuente, y la legibilidad es qué tan bien se leería la traducción para la audiencia específica a la que va dirigida. Si el texto contiene incluso un solo error **fuerte**, tendemos a calificar la traducción con no más de dos en la categoría de correspondencia.
+Aquí, la correspondencia es qué tan bien la traducción refleja los sentidos transmitidos en el texto fuente, y la legibilidad es qué tan bien se leería la traducción para la audiencia específica a la que va dirigida. Si el texto contiene incluso un solo error **fuerte**, tendemos a calificar la traducción con no más de dos en correspondencia o legibilidad, dependiendo de la naturaleza del error.
 
 ## Efectividad de la traducción
 
