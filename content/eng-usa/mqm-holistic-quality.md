@@ -102,7 +102,7 @@ Once holistic ratings have been established, they can be used to determine the o
 | Somewhat ineffective | 2 | 2 | Parts of the translation impede understanding and the overall use of the content. |
 | Ineffective | 1 | 1 | The translation can't be understood or is significantly incomplete. |
 
-Note that when a translation receives a low readability score that also negatively impacts its correspondence. The way to acheive correspondence in translation is not through literal translations that impede understanding, even as automatic quality metrics from the machine translation community like BLEU favor literal translations.
+Note that when a translation receives a low readability score that also negatively impacts its correspondence. The way to acheive correspondence in translation is not through literal translations that impede understanding, even as automatic quality metrics from the machine translation community like [BLEU](https://arxiv.org/pdf/1911.03823) favor literal translations.
 
 ## Active Learning
 

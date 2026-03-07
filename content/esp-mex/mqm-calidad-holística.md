@@ -102,7 +102,7 @@ Una vez establecidas las calificaciones holísticas, pueden utilizarse para dete
 | Parcialmente inefectiva | 2 | 2 | Partes de la traducción dificultan la comprensión y el uso general del contenido. |
 | Inefectiva | 1 | 1 | La traducción no puede comprenderse o está significativamente incompleta. |
 
-Nótese que cuando una traducción recibe una puntuación baja de legibilidad, esto también afecta negativamente su correspondencia. La vía para lograr la correspondencia en traducción no son las traducciones literales que dificultan la comprensión, aunque métricas automáticas de calidad provenientes de la comunidad de traducción automática, como BLEU, favorezcan precisamente ese tipo de traducciones.
+Hay que notar que cuando una traducción recibe una puntuación baja de legibilidad, esto también afecta negativamente su correspondencia. La vía para lograr la correspondencia en traducción no son las traducciones literales que dificultan la comprensión, aunque métricas automáticas de calidad provenientes de la comunidad de traducción automática, como [BLEU](https://arxiv.org/pdf/1911.03823), favorezcan precisamente ese tipo de traducciones.
 
 ## Aprendizaje activo
 
