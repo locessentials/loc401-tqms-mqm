@@ -1,11 +1,11 @@
 # Lección 2: Tipología de errores MQM y calidad holística
 
-En esta lección trabajaremos con la Tipología de Errores MQM, un marco para el marcado de errores de traducción que puede aplicarse tanto a traducciones humanas como automáticas. Según el [sitio web de MQM](https://themqm.org), "MQM puede utilizarse para identificar problemas de calidad en productos de traducción, clasificarlos conforme a una tipología de errores estandarizada, abierta y compartida, y generar métricas de calidad que permitan evaluar en qué medida el producto de traducción cumple con los requisitos de calidad establecidos". El marcado de errores que sigue un marco estandarizado como MQM también habilita el análisis de causa raíz y la incorporación de acciones preventivas que, con el tiempo, hacen que la producción de traducciones sea más eficiente y alcance mayor calidad desde el primer intento.
+En esta lección trabajaremos con la Tipología de Errores MQM, un marco para el marcado de errores de traducción que puede aplicarse tanto a traducciones humanas como automáticas. Según el [sitio web de MQM](https://themqm.org), "MQM puede utilizarse para identificar problemas de calidad en productos de traducción, clasificarlos conforme a una tipología de errores estandarizada, abierta y compartida, y generar métricas de calidad que permitan evaluar en qué medida el producto de traducción cumple con los requisitos de calidad establecidos" (traducido del inglés). El marcado de errores que sigue un marco estandarizado como MQM también habilita el análisis de causa raíz y la incorporación de acciones preventivas que, con el tiempo, hacen que la producción de traducciones sea más eficiente y alcance mayor calidad desde el primer intento.
 
 Las anotaciones producidas con sistemas como MQM pueden utilizarse para capacitar a las personas evaluadoras en la realización de evaluaciones más precisas, para entrenar LLMs en la evaluación de calidad, y para generar retroalimentación que apoye el aprendizaje y el desarrollo del personal traductor. Las traducciones humanas de mayor calidad, a su vez, pueden usarse para entrenar a los LLMs a traducir mejor.
 
 <figure class="image-center image-md">
-  <img src="../../assets/translation-annotations.svg" alt="Diagrama que muestra nodos de Traducción y Anotación, cada uno conectado a un Agente LLM, con flechas bidireccionales entre Traducción y Anotación" />
+  <img src="../../assets/traducción-anotación.svg" alt="Diagrama que muestra nodos de Traducción y Anotación, cada uno conectado a un Agente LLM, con flechas bidireccionales entre Traducción y Anotación" />
   <figcaption>Flujo de trabajo de traducción y anotación con agentes LLM</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ A continuación presentamos la tipología de errores personalizada, junto con un
 
 | Tipo | Descripción |
 | ----- | ----- |
-| Corrección | El uso terminológico debe ser correcto según el contexto del campo temático y la audiencia. Si se han proporcionado glosarios, deben seguirse (salvo que sean incorrectos). |
+| Precisión | El uso terminológico debe ser correcto según el contexto del campo temático y la audiencia. Si se han proporcionado glosarios, deben seguirse (salvo que sean incorrectos). |
 | Consistencia | En algunos tipos de texto, el uso terminológico debe ser consistente. En otros tipos de texto y en algunas lenguas, se prefiere la variación elegante de la terminología. |
 
 ### Exactitud
