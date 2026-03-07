@@ -5,7 +5,7 @@ En esta lección trabajaremos con la Tipología de Errores MQM, un marco para el
 Las anotaciones producidas con sistemas como MQM pueden utilizarse para capacitar a las personas evaluadoras en la realización de evaluaciones más precisas, para entrenar LLMs en la evaluación de calidad, y para generar retroalimentación que apoye el aprendizaje y el desarrollo del personal traductor. Las traducciones humanas de mayor calidad, a su vez, pueden usarse para entrenar a los LLMs a traducir mejor.
 
 <figure class="image-center image-md">
-  <img src="../../assets/traducción-anotación.svg" alt="Diagrama que muestra nodos de Traducción y Anotación, cada uno conectado a un Agente LLM, con flechas bidireccionales entre Traducción y Anotación" />
+  <img src="../../assets/traduccion-anotaciones.svg" alt="Diagrama que muestra nodos de Traducción y Anotación, cada uno conectado a un Agente LLM, con flechas bidireccionales entre Traducción y Anotación" />
   <figcaption>Flujo de trabajo de traducción y anotación con agentes LLM</figcaption>
 </figure>
 
