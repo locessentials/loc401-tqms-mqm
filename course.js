@@ -45,7 +45,7 @@
     updateLangButtons();
 
     const hash = window.location.hash.slice(1);
-    const urlToLoad = hash ? decodeURIComponent(hash) : courseData[currentLang].lessons[0].url;
+    const urlToLoad = hash ? decodeURI(hash) : courseData[currentLang].lessons[0].url;
     loadPage(urlToLoad);
   });
 
@@ -103,7 +103,7 @@
       const a = document.createElement('a');
       a.className = 'nav-link' + (link.url === currentUrl ? ' active' : '');
       a.innerHTML = '<span class="nav-icon">' + link.icon + '</span>' + link.label;
-      a.href = '#' + encodeURIComponent(link.url);
+      a.href = '#' + encodeURI(link.url);
       a.addEventListener('click', e => { e.preventDefault(); loadPage(link.url); });
       mainLinksNav.appendChild(a);
     });
@@ -112,7 +112,7 @@
     data.lessons.forEach(lesson => {
       const a = document.createElement('a');
       a.className = 'lesson-link' + (lesson.url === currentUrl ? ' active' : '');
-      a.href = '#' + encodeURIComponent(lesson.url);
+      a.href = '#' + encodeURI(lesson.url);
       a.innerHTML =
         '<span class="lesson-number">' + lesson.number + '</span>' +
         '<span class="lesson-title">' + lesson.title + '</span>';
@@ -168,12 +168,12 @@
   // ================================================
   async function loadPage(url) {
     currentUrl = url;
-    window.history.replaceState(null, '', '#' + encodeURIComponent(url));
+    window.history.replaceState(null, '', '#' + encodeURI(url));
     updatePageMeta(url);
 
     document.querySelectorAll('.nav-link, .lesson-link').forEach(el => {
       el.classList.remove('active');
-      const href = decodeURIComponent((el.getAttribute('href') || '').slice(1));
+      const href = decodeURI((el.getAttribute('href') || '').slice(1));
       if (href === url) el.classList.add('active');
     });
 
