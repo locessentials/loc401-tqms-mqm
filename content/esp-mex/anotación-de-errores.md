@@ -49,6 +49,12 @@ Para quienes deseen realizar evaluaciones de calidad rigurosas y reutilizables, 
   <figcaption>La interfaz de anotación de Label Studio configurada para la anotación de errores de traducción basada en MQM, con categorías de error, subcategorías, calificaciones de impacto y el panel de regiones de anotación.</figcaption>
 </figure>
 
+**Creación de una nueva anotación**
+
+- Si eres la primera persona en anotar un proyecto, se creará automáticamente una pestaña para tus anotaciones.
+- Si alguien más ya ha comenzado su anotación del proyecto, haz clic en el ícono + junto a la pestaña con su nombre para crear tu espacio de trabajo.
+- Recuerda no consultar el trabajo de otros anotadores hasta haber enviado tus propias anotaciones.
+
 **Anotación de errores y marcadores de calidad**
 
 - Selecciona una categoría de etiqueta y resalta un fragmento de texto

@@ -49,6 +49,12 @@ For practitioners who want to perform rigorous, reusable quality evaluations, a 
   <figcaption>The Label Studio annotation interface configured for MQM-based translation error annotation, showing error categories, subcategories, impact ratings, and the annotation regions panel.</figcaption>
 </figure>
 
+**Creating a new annotation**
+
+- If you are the first person to annotate a project, a tab for your annotations will be automatically created for you.
+- If someone else has already started their annotation of the project, click the + icon next to the tab with their name to create your workspace. 
+- Remember to try not to look at other annotators' work until you've already submitted your annotations.
+
 **Annotating errors and quality markers**
 
 - Select a label category and highlight a span of text
