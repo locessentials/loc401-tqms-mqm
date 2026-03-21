@@ -20,6 +20,6 @@ This lesson compares traditional translation environment tools (TEnTs) with prof
 
 ## Lesson 5: Exploratory Data Analysis
 
-## Lesson 6: Root Cause Analysis and Preventative Action
+## Lesson 6: Root Cause Analysis and Continual Improvement
 
 ## Conclusion and Lessons Learned

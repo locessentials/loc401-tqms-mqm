@@ -12,6 +12,6 @@
 
 ## Lección 5: Análisis exploratorio de datos
 
-## Lección 6: Análisis de causa raíz y acción preventiva
+## Lección 6: Análisis de causa raíz y mejora continua
 
 ## Conclusión y lecciones aprendidas

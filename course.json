@@ -74,10 +74,10 @@
       },
       {
         "number": 6,
-        "title": "Lesson 6: Root Cause Analysis and Preventative Action",
-        "focusKeyword": "translation quality root cause analysis CAPA",
-        "description": "Structured root cause analysis (RCA) methods applied to recurring translation quality issues, and how to design corrective and preventative action (CAPA) plans.",
-        "url": "content/eng-usa/rca-prevention.md"
+        "title": "Lesson 6: Root Cause Analysis and Continual Improvement",
+        "focusKeyword": "translation quality root cause analysis corrective action",
+        "description": "Structured root cause analysis (RCA) methods applied to recurring translation quality issues, and how to design corrective action plans.",
+        "url": "content/eng-usa/rca-improvement.md"
       },
       {
         "number": 7,
@@ -165,10 +165,10 @@
       },
       {
         "number": 6,
-        "title": "Lección 6: Análisis de causa raíz y acción preventiva",
-        "focusKeyword": "análisis de causa raíz calidad en traducción CAPA",
-        "description": "Métodos estructurados de análisis de causa raíz (ACR) aplicados a problemas recurrentes de calidad en traducción, y cómo diseñar planes de acción correctiva y preventiva (CAPA).",
-        "url": "content/esp-mex/causa-raíz-prevención.md"
+        "title": "Lección 6: Análisis de causa raíz y mejora continua",
+        "focusKeyword": "análisis de causa raíz calidad en traducción mejora continua",
+        "description": "Métodos estructurados de análisis de causa raíz (ACR) aplicados a problemas recurrentes de calidad en traducción, y cómo diseñar planes de acción correctiva.",
+        "url": "content/esp-mex/causa-raíz-mejora-continua.md"
       },
       {
         "number": 7,

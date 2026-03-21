@@ -1,1 +1,0 @@
-# Lesson 6: Root Cause Analysis and Preventative Action
