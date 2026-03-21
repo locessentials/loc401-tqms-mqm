@@ -21,7 +21,7 @@ Dos métodos especialmente útiles para identificar causas raíz en flujos de tr
 El Diagrama de Ishikawa (también llamado diagrama de espina de pescado o diagrama de causa y efecto) es una herramienta visual para mapear todas las posibles causas de un problema. El problema se escribe en la cabeza del "pez" y las causas se ramifican desde la columna vertebral, agrupadas por categoría. Lo que hace valioso al enfoque de Ishikawa es que obliga a considerar múltiples dominios de causalidad al mismo tiempo: no solo la persona traductora, sino también las herramientas, los plazos, el encargo, el texto fuente y el proceso mismo.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://youtu.be/b7oyL0E0mfs?si=4I6JTnrdUAZfxyA-" title="Diagrama de Ishikawa" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b7oyL0E0mfs?si=AtBJmnQNlkvVEW8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <figcaption>Cita: Ana Dominguez. 2021. "Diagrama de Ishikawa". YouTube.</figcaption>
 
@@ -30,7 +30,7 @@ El Diagrama de Ishikawa (también llamado diagrama de espina de pescado o diagra
 Los 5 Por Qués es una técnica de cuestionamiento iterativo que desciende desde un síntoma superficial hasta su causa subyacente mediante una pregunta repetida: ¿por qué? La técnica es simple, pero puede ser poderosa cuando se aplica con honestidad. El objetivo no es llegar a una respuesta conveniente, sino seguir preguntando hasta alcanzar una causa sobre la que sea posible actuar.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://youtu.be/1K0r_QuZDvI?si=bYIBxt5hSvXgLzjb" title="La técnica de los 5 Por qué de Toyoda" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1K0r_QuZDvI?si=7eKuSVxi__T7epBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <figcaption>Cita: Patricia Neito Coach. 2021. "La técnica de los 5 Por qué de Toyoda y cómo utilizarlo como líder". YouTube.</figcaption>
 
