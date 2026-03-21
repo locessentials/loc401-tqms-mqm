@@ -23,7 +23,7 @@ A Fishbone Diagram (also called an Ishikawa or cause-and-effect diagram) is a vi
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2rLB-1z9cPY" title="Fishbone Diagrams" allowfullscreen></iframe>
 </div>
-<figcaption>*Citation: Western Region Public Health Training Center. 2013. "Fishbone Diagrams." YouTube.*</figcaption>
+<figcaption>Citation: Western Region Public Health Training Center. 2013. "Fishbone Diagrams." YouTube.</figcaption>
 
 ### 5 Whys
 
@@ -32,7 +32,7 @@ The 5 Whys is an iterative questioning technique that drills down from a surface
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zZRmCs7Dag8" title="5 Whys Root Cause Analysis" allowfullscreen></iframe>
 </div>
-<figcaption>*Citation: The Agile Business Analyst. 2021. "BEFORE You Do A 5 WHYS Root Cause Analysis Watch This..." YouTube.*</figcaption>
+<figcaption>Citation: The Agile Business Analyst. 2021. "BEFORE You Do A 5 WHYS Root Cause Analysis Watch This..." YouTube.</figcaption>
 
 ## Root Causes in Translation Production
 
@@ -41,7 +41,7 @@ While people often assume that an error in the translation is the fault of the t
 <figure class="image-center image-full">
   <img src="../../assets/ProductionWorkflow.svg" alt="An illustration of a translation and localization production workflow including scoping, preparation, TEP, design, LQA and post production" />
   <figcaption>A translation and localization production workflow, from scoping through post-production. Root causes can originate at any stage.</figcaption>
-  <figcaption>*Image published in [Translation and localization project and process managers](https://www.degruyter.com/document/doi/10.1515/9783110716047-008/pdf), Handbook of the Language Industry, De Gruyter Mouton (2024).*</figcaption>
+  <figcaption>Image published in [Translation and localization project and process managers](https://www.degruyter.com/document/doi/10.1515/9783110716047-008/pdf), Handbook of the Language Industry, De Gruyter Mouton (2024).</figcaption>
 </figure>
 
 To support systematic RCA in translation and localization, the MQM framework provides a [Root Cause Error List](https://themqm.org/resources/root-causes/), a taxonomy of upstream causes that commonly give rise to errors in translated output. The list is organized to encourage quality managers to look beyond the translation itself and examine the preparation and process that preceded it.

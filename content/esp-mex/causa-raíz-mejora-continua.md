@@ -23,7 +23,7 @@ El Diagrama de Ishikawa (también llamado diagrama de espina de pescado o diagra
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://youtu.be/b7oyL0E0mfs?si=4I6JTnrdUAZfxyA-" title="Diagrama de Ishikawa" allowfullscreen></iframe>
 </div>
-<figcaption>*Cita: Ana Dominguez. 2021. "Diagrama de Ishikawa". YouTube.*</figcaption>
+<figcaption>Cita: Ana Dominguez. 2021. "Diagrama de Ishikawa". YouTube.</figcaption>
 
 ### Los 5 Por Qués
 
@@ -32,16 +32,16 @@ Los 5 Por Qués es una técnica de cuestionamiento iterativo que desciende desde
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://youtu.be/1K0r_QuZDvI?si=bYIBxt5hSvXgLzjb" title="La técnica de los 5 Por qué de Toyoda" allowfullscreen></iframe>
 </div>
-<figcaption>*Cita: Patricia Neito Coach. 2021. "La técnica de los 5 Por qué de Toyoda y cómo utilizarlo como líder". YouTube.*</figcaption>
+<figcaption>Cita: Patricia Neito Coach. 2021. "La técnica de los 5 Por qué de Toyoda y cómo utilizarlo como líder". YouTube.</figcaption>
 
 ## Causas raíz en la producción de traducción
 
 Suele asumirse que un error en la traducción es responsabilidad de la persona traductora o posedítora, pero el análisis de causa raíz frecuentemente saca a la luz causas más profundas: un glosario que nunca se proporcionó, un texto fuente ambiguo, un cronograma que no contempló tiempo suficiente para la revisión. El objetivo del ACR en un sistema de gestión de calidad en traducción no es asignar culpas, sino identificar dónde puede fortalecerse el flujo de trabajo. Cada ronda de análisis es una oportunidad para eliminar un punto de fricción y, con el tiempo, esa iteración sostenida es lo que transforma un sistema de calidad funcional en uno optimizado.
 
 <figure class="image-center image-full">
-  <img src="../../assets/ProductionWorkflow.svg" alt="An illustration of a translation and localization production workflow including scoping, preparation, TEP, design, LQA and post production" />
+  <img src="../../assets/Flujo-Producción.svg" alt="Ilustración de un flujo de trabajo de traducción y localización que incluye las etapas de alcance del proyecto, preparación, traducción, revisión y corrección de estilo, diseño, aseguramiento de calidad de localización y posproducción" />
   <figcaption>Un flujo de trabajo de traducción y localización, desde el alcance del proyecto hasta la posproducción. Las causas raíz pueden originarse en cualquier etapa.</figcaption>
-  <figcaption>*Imagen publicada en [Translation and localization project and process managers](https://www.degruyter.com/document/doi/10.1515/9783110716047-008/pdf), Handbook of the Language Industry, De Gruyter Mouton (2024).*</figcaption>
+  <figcaption>Imagen publicada en [Translation and localization project and process managers](https://www.degruyter.com/document/doi/10.1515/9783110716047-008/pdf), Handbook of the Language Industry, De Gruyter Mouton (2024).</figcaption>
 </figure>
 
 Para respaldar el ACR sistemático en traducción y localización, el marco MQM ofrece una [Lista de Causas Raíz de Errores](https://themqm.org/resources/root-causes/) (en inglés): una taxonomía de causas previas a la traducción que con frecuencia originan errores en el producto traducido. La lista está organizada para alentar a quienes gestionan la calidad a ir más allá de la traducción misma y examinar la preparación y el proceso que la precedieron.
