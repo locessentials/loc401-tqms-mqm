@@ -14,8 +14,8 @@
   </div>
 </div>
 
-## Acerca LocEssentials
+## Acerca de LocEssentials
 
-[LocEssentials](https://locessentials.com) es una consultoría que ofrece cursos de acceso abierto sobre gestión de la traducción y la localización, junto con servicios que complementan los cursos, como asesoría personalizada, evaluaciones con retroalimentación completa sobre tareas y trabajo y consultoría. Nuestra especialización abarca la traducción y la localización, la gestión de la calidad, la terminología y la tecnología. También desarrollamos soluciones adaptadas a las necesidades específicas de cada organización.
+[LocEssentials](https://locessentials.com) es una consultoría que ofrece cursos de acceso abierto sobre gestión de la traducción y la localización, junto con servicios que complementan los cursos, como asesoría personalizada, evaluaciones con retroalimentación completa sobre trabajo y consultoría. Nuestra especialización abarca la traducción y la localización, la gestión de la calidad, la terminología y la tecnología. También desarrollamos soluciones adaptadas a las necesidades específicas de cada organización.
 
 </div>
