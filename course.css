@@ -308,6 +308,10 @@ body {
   margin-left: 2.5rem;
 }
 
+#content.content--narrow {
+  max-width: 75%;
+}
+
 /* === Markdown Content Styles === */
 #content h1 {
   font-family: var(--font-display);
@@ -327,6 +331,10 @@ body {
   color: var(--blue-dark);
   margin-top: 2.5rem;
   margin-bottom: 0.75rem;
+}
+
+#content.content--narrow h2 {
+  margin-bottom: 1.5rem;
 }
 
 #content h3 {
@@ -392,6 +400,27 @@ body {
 
 #content li strong {
   font-weight: bold;
+}
+
+#content .bio-grid {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 2rem;
+  align-items: start;
+  line-height: 1.8;
+}
+
+#content .bio-grid .image-circle img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(239, 145, 198, 0.35);
+  margin: 0;
+}
+
+#content .bio-grid figure {
+  margin: 0;
 }
 
 /* Blockquotes */
@@ -541,6 +570,28 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+
+/* === Circular image variant for floated figures === */
+#content figure.image-circle img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(239, 145, 198, 0.35);
+  margin: 0;          /* override the default auto-centering */
+}
+ 
+/* When combined with image-right */
+#content figure.image-right.image-circle {
+  max-width: 220px;   /* slightly larger than the img to allow breathing room */
+  margin: 0.25rem 0 1.5rem 2.5rem;
+}
+ 
+/* When combined with image-left */
+#content figure.image-left.image-circle {
+  max-width: 220px;
+  margin: 0.25rem 2.5rem 1.5rem 0;
 }
 
 /* Video embeds */
