@@ -37,4 +37,4 @@ No prior experience with quality management frameworks is required. Participants
 
 ## Get Started
 
-Ready to begin? Head over to the [Course Outline](outlinemd) to see what's covered or jump right into the first lesson.
+Ready to begin? Head over to the [Course Outline](outline.md) to see what's covered or jump right into the first lesson.
