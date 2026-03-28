@@ -40,4 +40,4 @@ Crea un póster actualizado que refleje dónde estás ahora y compáralo con el 
 
 ## ¡Concluimos! 🎉
 
-Felicidades por completar el curso. Esperamos que los marcos y herramientas cubiertos aquí te ofrezcan una base sólida para construir y perfeccionar sistemas de gestión de calidad en traducción en tu propio trabajo. Si nesecitas revisitar una lección, el contenido del curso estará aquí. También puedes visitar [LocEssentials](https://locessentials.com/courses/) para explorar nuestros otros cursos de acceso abierto cuando quieras dar el siguiente paso.
+Felicidades por completar el curso. Esperamos que los marcos y herramientas cubiertos aquí te ofrezcan una base sólida para construir y perfeccionar sistemas de gestión de calidad en traducción en tu propio trabajo. Si necesitas revisitar una lección, el contenido del curso estará aquí. También puedes visitar [LocEssentials](https://locessentials.com/courses/) para explorar nuestros otros cursos de acceso abierto cuando quieras dar el siguiente paso.

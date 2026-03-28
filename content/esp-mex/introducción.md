@@ -1,6 +1,6 @@
 # Introducción: Sistemas de gestión de calidad en traducción basados en MQM
 
-Les damos la bienvenida a este curso sobre **Sistemas de Gestión de Calidad en Traducción** fundamentados en el marco de Métricas de Calidad Multidimensional (MQM, por sus siglas en inglés). El curso está dirigido a profesionales de la traducción y localización, personas que gestionan la calidad lingüística, y personas que practican la ingeniería de aprendizaje automático que desean construir o perfeccionar enfoques sistemáticos y basados en normaes para evaluar la calidad de las traducciones.
+Les damos la bienvenida a este curso sobre **Sistemas de Gestión de Calidad en Traducción** fundamentados en el marco de Métricas de Calidad Multidimensional (MQM, por sus siglas en inglés). El curso está dirigido a profesionales de la traducción y localización, personas que gestionan la calidad lingüística, y personas que practican la ingeniería de aprendizaje automático que desean construir o perfeccionar enfoques sistemáticos y basados en normas para evaluar la calidad de las traducciones.
 
 ## Gestión de la calidad en traducción
 
@@ -30,7 +30,7 @@ Esta distinción es fundamental para todo lo que sigue. Una puntuación numéric
 
 A lo largo de ocho lecciones, desarrollarás un conocimiento práctico de:
 
-- El panorama de normaes que rigen la calidad en traducción, incluyendo **ASTM F2575**
+- El panorama de normas que rigen la calidad en traducción, incluyendo **ASTM F2575**
 - La **tipología de errores de MQM** y su correspondencia con la puntuación de calidad holística
 - **Flujos de trabajo de gestión de calidad** empleados en entornos profesionales de proveedoras de servicios lingüísticos
 - Cómo configurar y utilizar un **entorno de anotación de errores**
@@ -51,7 +51,7 @@ Crea un **póster personal de calidad**, es decir, una sola imagen que capture t
 
 El póster no necesita ser perfecto. Solo debe ser honesto. Una vez que lo hayas creado, considera compartirlo con las personas en tu equipo, personas mentoras o colegas del sector. Úsalo como punto de partida para una conversación: ¿En qué coinciden sus definiciones? ¿En qué difieren? ¿Puede el grupo llegar a una definición de trabajo armonizada, o el ejercicio revela que armonizar es más difícil de lo que parece?
 
-Vale la pena quedarse con esa tensión. En las lecciones que siguen, encontrarás marcos como MQM diseñados precisamente para tender puentes entre perspectivas individuales y construir normaes de evaluación compartidos. Llegar a esas lecciones con tu propia definición ya articulada te dará un punto de comparación concreto.
+Vale la pena quedarse con esa tensión. En las lecciones que siguen, encontrarás marcos como MQM diseñados precisamente para tender puentes entre perspectivas individuales y construir normas de evaluación compartidos. Llegar a esas lecciones con tu propia definición ya articulada te dará un punto de comparación concreto.
 
 ---
 
