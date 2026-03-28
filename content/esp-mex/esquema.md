@@ -10,7 +10,7 @@ Esta lección presenta la norma ASTM F2575, el papel central de las especificaci
 
 ## Lección 2: Tipología de errores MQM y calidad holística
 
-Esta lección presenta una tipología personalizada de diecisiete tipos de error en seis categorías, junto con los niveles de impacto que se asignan a cada anotación, y una etiqueta de marcador de calidad para destacar los aspectos de una traducción que resolvieron un aspecto particularmente difícil del texto fuente. Aprenderás también a evaluar la calidad holística de una traducción mediante calificaciones de correspondencia y legibilidad, y a determinar su efectividad general.
+Esta lección presenta una tipología personalizada de diecinueve tipos de error en seis categorías, junto con los niveles de impacto que se asignan a cada anotación, y una etiqueta de marcador de calidad para destacar los aspectos de una traducción que resolvieron un aspecto particularmente difícil del texto fuente. Aprenderás también a evaluar la calidad holística de una traducción mediante calificaciones de correspondencia y legibilidad, y a determinar su efectividad general.
 
 ## Lección 3: Flujos de trabajo en la gestión de calidad de traducción
 

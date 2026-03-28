@@ -16,7 +16,7 @@ This course has been about building the systems that make acclimation possible f
 
 - In the **Introduction**, you reflected on what translation and localization quality means to you personally, and were introduced to the MQM framework as a structured vocabulary for describing not just that something went wrong, but what, where, and how much it matters.
 - In **Lesson 1**, you learned how ASTM F2575-25 requirements transform subjective quality expectations into measurable outcomes through specifications, and how translation labels distinguish professionally verified work from unverified output.
-- In **Lesson 2**, you worked with a customized MQM error typology, seventeen error types across six categories plus the quality marker, and learned how holistic correspondence and readability ratings determine a translation's overall effectiveness.
+- In **Lesson 2**, you worked with a customized MQM error typology, nineteen error types across six categories plus the quality marker, and learned how holistic correspondence and readability ratings determine a translation's overall effectiveness.
 - In **Lesson 3**, you saw how a TQMS trains evaluation teams to reach consistent results through a scaffolded sequence of projects, and how that consistency is what makes annotation data deployable in production environments.
 - In **Lesson 4**, you compared traditional CAT-based workflows against professional annotation environments, and learned to use Label Studio for structured, exportable MQM-based error annotation.
 - In **Lesson 5**, you used exploratory data analysis to interpret annotation data, including span overlap, error distribution, and agreement scores, and you learned how to use those findings in calibration sessions.

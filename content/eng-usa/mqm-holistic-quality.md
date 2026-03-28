@@ -13,7 +13,7 @@ Although this course centers upon MQM, we'd like to note that this framework may
 
 ## Customized MQM Typology
 
-The MQM core typology includes thirty-eight error types in seven categories. Here, we present a customized (and simplified) version of the core typology with **seventeen error types** in **six categories**, understanding that the more error types that evaluators need to check for, the more likely that errors will be miscategorized or missed. 
+The MQM core typology includes thirty-eight error types in seven categories. Here, we present a customized (and simplified) version of the core typology with **nineteen error types** in **six categories**, understanding that the more error types that evaluators need to check for, the more likely that errors will be miscategorized or missed. 
 
 While translation systems that incorporate the MQM typology tend to allow just one version of it to be applied across content types and projects, we recommend designing specific typologies that address the error types that need to be checked for within your specific content types, and based upon the specifications that have been established for the work.
 
@@ -33,7 +33,9 @@ Here we present a customized error typology, along with discussion of each of ou
 | Type | Discussion |
 | ----- | ----- |
 | Translatability | All text that should have been translated was left untranslated. No text that should have been left untranslated was translated. |
-| Completeness | Complete translation generally avoid omissions and additions. They also avoid over- and under-translation. Over-translation introduces incorrect specificity (e.g. a specific type of flower is named rather than the general idea of flowers), and under-translation introduces incorrect generalizations (e.g. a specific tool was mentioned and that was referenced in a more general sense as a tool) |
+| Completeness | Complete translations generally avoid omissions and additions. They also avoid over- and under-translation. Over-translation introduces incorrect specificity (e.g. a specific type of flower is named rather than the general idea of flowers), and under-translation introduces incorrect generalizations (e.g. a specific tool was mentioned and that was referenced in a more general sense as a tool). |
+| Cohesion | A cohesive translation preserves the connective tissue of the source text, including discourse markers, transitional phrases, and implicit logical links that guide a reader from one idea to the next. Cohesion errors occur when these elements are dropped or distorted, leaving a translation that feels fragmented or abrupt even if individual sentences are accurate. |
+| Coherence | A coherent translation makes sense as a whole: its claims follow logically, its meaning accumulates correctly, and it says something. Coherence errors produce text that is grammatically well-formed and may even read fluently, but whose underlying logic has broken down, a particular failure mode of AI-generated output, which can produce plausible-sounding language that communicates nothing. |
 | Mistranslation | Mistranslations are the result of misunderstanding the sense conveyed in the source text. |
 
 ### Style

@@ -13,7 +13,7 @@ Aunque este curso se centra en MQM, es importante señalar que este marco puede 
 
 ## Tipología MQM personalizada
 
-La tipología núcleo de MQM incluye treinta y ocho tipos de error en siete categorías. Aquí presentamos una versión personalizada y simplificada de esa tipología núcleo, con **diecisiete tipos de error** en **seis categorías**. El criterio detrás de esta decisión es que, cuantos más tipos de error deban verificar las personas evaluadoras, mayor es la probabilidad de que los errores se clasifiquen incorrectamente o pasen inadvertidos.
+La tipología núcleo de MQM incluye treinta y ocho tipos de error en siete categorías. Aquí presentamos una versión personalizada y simplificada de esa tipología núcleo, con **diecinueve tipos de error** en **seis categorías**. El criterio detrás de esta decisión es que, cuantos más tipos de error deban verificar las personas evaluadoras, mayor es la probabilidad de que los errores se clasifiquen incorrectamente o pasen inadvertidos.
 
 Si bien los sistemas tecnológicos que incorporan la tipología MQM suelen permitir que una sola versión se aplique a todos los tipos de contenido y proyectos, recomendamos diseñar tipologías específicas que atiendan los tipos de error relevantes para cada tipo de contenido, tomando como base las especificaciones establecidas para el trabajo.
 
@@ -34,6 +34,8 @@ A continuación presentamos la tipología de errores personalizada, junto con un
 | ----- | ----- |
 | Traducibilidad | Todo el texto que debía traducirse fue traducido. Ningún texto que debía conservarse sin traducir fue traducido. |
 | Completitud | Una traducción completa evita generalmente las omisiones y las adiciones, así como la sobretraducción y la subtraducción. La sobretraducción introduce una especificidad incorrecta (por ejemplo, se nombra un tipo específico de flor en lugar de referirse a las flores en general); la subtraducción introduce generalizaciones incorrectas (por ejemplo, se menciona una herramienta específica y se hace referencia a ella de forma genérica). |
+| Cohesión | Una traducción cohesiva preserva los elementos conectivos del texto fuente: los marcadores discursivos, las frases de transición y los vínculos lógicos implícitos que guían al lector de una idea a la siguiente. Los errores de cohesión se producen cuando estos elementos se omiten o se distorsionan, lo que deja una traducción que se siente fragmentada o abrupta aunque las oraciones individuales sean precisas. |
+| Coherencia | Una traducción coherente tiene sentido en su conjunto: sus afirmaciones se siguen lógicamente, su significado se construye de manera correcta y comunica algo concreto. Los errores de coherencia producen textos gramaticalmente bien formados que pueden incluso leerse con fluidez, pero cuya lógica subyacente se ha desmoronado, un modo de falla característico de los sistemas de IA generativa, que pueden producir lenguaje plausible que no comunica nada. |
 | Traducción errónea | Las traducciones erróneas son resultado de haber malinterpretado el sentido transmitido en el texto fuente. |
 
 ### Estilo

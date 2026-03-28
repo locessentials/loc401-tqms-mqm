@@ -10,7 +10,7 @@ This lesson introduces ASTM F2575-25 and its two key concepts: specifications an
 
 ## Lesson 2: MQM Error Typology & Holistic Quality
 
-This lesson presents a customized MQM error typology with seventeen error types across six categories, along with guidance on how to apply them. It expands on the standard MQM framework by introducing quality markers to recognize particularly well-handled translation challenges, and levels of impact to replace traditional severity levels. The lesson concludes with a holistic rating system that scores translations on correspondence and readability to determine overall effectiveness.
+This lesson presents a customized MQM error typology with nineteen error types across six categories, along with guidance on how to apply them. It expands on the standard MQM framework by introducing quality markers to recognize particularly well-handled translation challenges, and levels of impact to replace traditional severity levels. The lesson concludes with a holistic rating system that scores translations on correspondence and readability to determine overall effectiveness.
 
 ## Lesson 3: Translation Quality Management Workflows
 
