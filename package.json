@@ -1,7 +1,7 @@
 {
   "name": "locessentials-mqm-course",
   "version": "1.0.0",
-  "description": "Translation Quality Management Systems course — LocEssentials",
+  "description": "Translation Quality Management Systems course | LocEssentials",
   "private": true,
   "scripts": {
     "build": "node build.js",

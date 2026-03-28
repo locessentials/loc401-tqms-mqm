@@ -22,7 +22,7 @@ Additional concepts addressed include MQM **error severity levels** (neutral, mi
 
 The **Multidimensional Quality Metrics (MQM)** framework is the foundation for the TQMS presented in this course. It provides a hierarchical error typology that enables consistent, reproducible quality evaluation across language pairs, content types, and production environments.
 
-> MQM is not a single score — it is a structured vocabulary for describing what went wrong, where, and how severely.
+> MQM is not a single score—it is a structured vocabulary for describing what went wrong, where, and how severely.
 
 This distinction is fundamental to everything that follows. A single numeric quality score tells you *that* something is wrong. MQM tells you *what*, *where*, and *how much it matters*.
 

@@ -47,7 +47,7 @@ function buildStaticPage(lang, lesson, contentHtml) {
   ).join('\n');
 
   const htmlLang = lang === 'esp-mex' ? 'es-MX' : 'en-US';
-  const pageTitle = `${lesson.title} — ${data.siteName}`;
+  const pageTitle = `${lesson.title} | Loc401 - TQMS`;
   const canonicalUrl = `${BASE_URL}/${lesson.url}`;
 
   return `<!DOCTYPE html>
@@ -72,7 +72,7 @@ function buildStaticPage(lang, lesson, contentHtml) {
   <header id="topbar">
     <a id="topbar-logo" href="/">
       <img src="/assets/logo-tilted.png"
-           alt="LocEssentials logo — two-toned blue baseball cap with LOC in white lettering"
+           alt="LocEssentials logo: two-toned blue baseball cap with LOC in white lettering"
            onerror="this.style.display='none'" />
       <span class="logo-text">LocEssentials</span>
     </a>

@@ -1,6 +1,6 @@
 # Lesson 5: Exploratory Data Analysis
 
-In the previous lesson, you completed your first annotations in Label Studio. Now comes a question that every quality manager eventually faces: once a team of evaluators has annotated the same text, how do you make sense of what they produced? How do you know whether their results are consistent enough to be useful — and when they're not, how do you figure out why?
+In the previous lesson, you completed your first annotations in Label Studio. Now comes a question that every quality manager eventually faces: once a team of evaluators has annotated the same text, how do you make sense of what they produced? How do you know whether their results are consistent enough to be useful, and when they're not, how do you figure out why?
 
 This is where **exploratory data analysis (EDA)** comes in. EDA is the process of examining annotation data to understand what it contains, where patterns emerge, and where problems lie. In the context of a TQMS, EDA is the primary tool for diagnosing disagreement and deciding what to do about it. Without it, the workflow described in Lesson 3 - evaluate, measure, improve, repeat - has no direction.
 
