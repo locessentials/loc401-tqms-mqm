@@ -91,3 +91,5 @@ Your report should include:
 ---
 
 ## Up Next: Conclusion and Lessons Learned
+
+Up next, we'll bring the course full circle, reflecting on what you've learned and how your understanding of translation quality has evolved.

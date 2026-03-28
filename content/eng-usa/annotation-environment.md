@@ -109,5 +109,4 @@ As you work, reflect on these questions:
 
 ## Up Next: Exploratory Data Analysis
 
-
-
+Up next, we'll explore methods for measuring agreement, identifying patterns, and determining where calibration is needed from the annotation data that teams of evaluators have produced.

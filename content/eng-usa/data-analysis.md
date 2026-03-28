@@ -109,5 +109,6 @@ As you review it, consider the following:
 
 ---
 
-## Up Next: Root Cause Analysis and Preventative Action
+## Up Next: Root Cause Analysis and Continual Improvement
 
+Up next, we'll consider how patterns that the data revealed can be used identify the root causes of recurring translation errors and put corrective action plans in place.
