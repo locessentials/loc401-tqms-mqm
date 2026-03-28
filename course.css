@@ -402,7 +402,7 @@ body {
   font-weight: bold;
 }
 
-#content .bio-grid {
+#content .page-grid {
   display: grid;
   grid-template-columns: 180px 1fr;
   gap: 2rem;
@@ -410,7 +410,7 @@ body {
   line-height: 1.8;
 }
 
-#content .bio-grid .image-circle img {
+#content .page-grid .image-circle img {
   width: 180px;
   height: 180px;
   border-radius: 50%;
@@ -419,7 +419,7 @@ body {
   margin: 0;
 }
 
-#content .bio-grid figure {
+#content .page-grid figure {
   margin: 0;
 }
 
