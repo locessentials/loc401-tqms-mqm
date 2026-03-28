@@ -1,6 +1,6 @@
 # Lesson 2: MQM Error Typology & Holistic Quality
 
-In this lesson we'll work with the MQM Error Typology, a framework for translation error marking that can be applied to both human and automatic translation. According to the [MQM website](https://themqm.org), "MQM can be used to identify quality issues in translation products, classify them against a shared, open and standardized error typology, and generate quality measures that can be used to gauge how well the translation product meets quality requirements." Error marking that follows a standarized framework like MQM also enable the root cause analysis and the incorporation of preventative actions that make translation production more efficient and higher quality on the first shot over time.
+In this lesson we'll work with the MQM Error Typology, a framework for translation error marking that can be applied to both human and automatic translation. According to the [MQM website](https://themqm.org), "MQM can be used to identify quality issues in translation products, classify them against a shared, open and standardized error typology, and generate quality measures that can be used to gauge how well the translation product meets quality requirements." Error marking that follows a standardized framework like MQM also enable the root cause analysis and the incorporation of preventative actions that make translation production more efficient and higher quality on the first shot over time.
 
 The annotations that are produced using systems like MQM can be used to teach evaluators to carry out better evaluations, to train LLMs to perform quality evaluations, and to produce feedback that can help translators to learn to translate better. Better translations by humans can be used to train LLMs to perform translation better as well.
 
@@ -33,7 +33,7 @@ Here we present a customized error typology, along with discussion of each of ou
 | Type | Discussion |
 | ----- | ----- |
 | Translatability | All text that should have been translated was left untranslated. No text that should have been left untranslated was translated. |
-| Completeness | Complete translation generally avoid omissions and additions. They also avoid over- and under-translation. Over-translation introduces incorrect specificity (e.g. a specific type of flower is named rather than the general idea of flowers), and under-translation introduces incorrect generalizations (e.g. a specific tool was mentioned and that was references in a more general sense as a tool) |
+| Completeness | Complete translation generally avoid omissions and additions. They also avoid over- and under-translation. Over-translation introduces incorrect specificity (e.g. a specific type of flower is named rather than the general idea of flowers), and under-translation introduces incorrect generalizations (e.g. a specific tool was mentioned and that was referenced in a more general sense as a tool) |
 | Mistranslation | Mistranslations are the result of misunderstanding the sense conveyed in the source text. |
 
 ### Style
@@ -52,7 +52,7 @@ Here we present a customized error typology, along with discussion of each of ou
 | Type | Discussion |
 | ----- | ----- |
 | Grammar | Texts should follow the grammar rules of a language. Depending on the audience, what are considered the "standard" grammar rules may not apply. |
-| Spelling | Spelling involves not only avoiding typos, but using hyphens and capitalization correctly. Spelling should also corresponde to the language variant in which the text was to be written. |
+| Spelling | Spelling involves not only avoiding typos, but using hyphens and capitalization correctly. Spelling should also correspond to the language variant in which the text was to be written. |
 | Punctuation | Punctuation is not used the same across all languages. Punctuation should be used in keeping with target language conventions. |
 
 ### Locale Conventions
@@ -76,9 +76,9 @@ Our system incorporates a **quality marker** label that can be assigned to any o
 
 ### Levels of Impact
 
-The MQM framework assigns severity levels to translation errors, ranging from nuetral, minor, major, and critical. An error that has been classified as neutral may be one where an alternative translation would be better, even though the existing translation was correct. A minor error is one that does impact the ability of the content to be used. A major error does impact the ability of the content to be used as intended. A critical error is one that would result in severe damage, either physically or reputationally.
+The MQM framework assigns severity levels to translation errors, ranging from neutral, minor, major, and critical. An error that has been classified as neutral may be one where an alternative translation would be better, even though the existing translation was correct. A minor error is one that does impact the ability of the content to be used. A major error does impact the ability of the content to be used as intended. A critical error is one that would result in severe damage, either physically or reputationally.
 
-Because we've incorporated quality markers into our customized typology, we felt it necessary to shfit from "Severity Levels" to "Level of Impact." We named our levels **neutral**, **moderate**, **strong**, and **showstopper**, where any of these levels can be applied and make sense for either errors or quality markers.
+Because we've incorporated quality markers into our customized typology, we felt it necessary to shift from "Severity Levels" to "Level of Impact." We named our levels **neutral**, **moderate**, **strong**, and **showstopper**, where any of these levels can be applied and make sense for either errors or quality markers.
 
 ## Holistic Quality
 
@@ -102,11 +102,11 @@ Once holistic ratings have been established, they can be used to determine the o
 | Somewhat ineffective | 2 | 2 | Parts of the translation impede understanding and the overall use of the content. |
 | Ineffective | 1 | 1 | The translation can't be understood or is significantly incomplete. |
 
-Note that when a translation receives a low readability score that also negatively impacts its correspondence. The way to acheive correspondence in translation is not through literal translations that impede understanding, even as automatic quality metrics from the machine translation community like [BLEU](https://arxiv.org/pdf/1911.03823) favor literal translations.
+Note that when a translation receives a low readability score that also negatively impacts its correspondence. The way to achieve correspondence in translation is not through literal translations that impede understanding, even as automatic quality metrics from the machine translation community like [BLEU](https://arxiv.org/pdf/1911.03823) favor literal translations.
 
 ## Active Learning
 
-Find, write, or generate examples of translations that would consistitute the error types discussed above. You can draw upon examples that you've encountered when working with bilingual content, write or describe an example, or ask an LLM to generate an example for you. If you're workign with a team, examples are a great way to surface types of issues that people are categorizing differently as you work toward a harmonized understanding of translation errors. Later, the examples you found can be used to train newcomers and help them to understand how you and your team categorizes errors.
+Find, write, or generate examples of translations that would constitute the error types discussed above. You can draw upon examples that you've encountered when working with bilingual content, write or describe an example, or ask an LLM to generate an example for you. If you're working with a team, examples are a great way to surface types of issues that people are categorizing differently as you work toward a harmonized understanding of translation errors. Later, the examples you found can be used to train newcomers and help them to understand how you and your team categorizes errors.
 
 ---
 

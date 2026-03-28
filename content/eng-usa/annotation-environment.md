@@ -1,6 +1,6 @@
 # Lesson 4: Error Annotation Environment
 
-As you learned in the last lesson, the TQMS presented here requires projects to be evaluated within an annotation environment. In this lesson, we discuss two types of annotation environments, the the pros and cons of each. Specifically, we compare traditional **translation environment tools (TEnTs)** to **professional annotation tools** used in machine learning.
+As you learned in the last lesson, the TQMS presented here requires projects to be evaluated within an annotation environment. In this lesson, we discuss two types of annotation environments, the pros and cons of each. Specifically, we compare traditional **translation environment tools (TEnTs)** to **professional annotation tools** used in machine learning.
 
 ## The Shortcomings of TEnTs
 

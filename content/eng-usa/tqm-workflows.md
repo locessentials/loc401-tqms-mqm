@@ -8,7 +8,7 @@ The TQMS described here requires a team of evaluators to meet the desired agreem
 
 ## Inter-rater reliability: The Challenge of Reaching Agreement
 
-Think back to the last lesson, in which you learned about the error types to be identified during TQE. You learned that error types are organized into categories and that they have severity levels assigned to them. The number of levels of classification that evaluators need to agree on is the main challenge to acheiving inter-rater reliability.
+Think back to the last lesson, in which you learned about the error types to be identified during TQE. You learned that error types are organized into categories and that they have severity levels assigned to them. The number of levels of classification that evaluators need to agree on is the main challenge to achieving inter-rater reliability.
 
 1. Do the evaluators agree that there is an error?
 2. Did they mark the same span of text as an error?
