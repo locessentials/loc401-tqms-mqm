@@ -108,3 +108,5 @@ Mientras trabajas, reflexiona sobre las siguientes preguntas:
 ---
 
 ## A continuación: Análisis exploratorio de datos
+
+En la próxima lección, aprenderás a interpretar las anotaciones del equipo mediante el análisis exploratorio de datos para diagnosticar dónde se fractura la concordancia y cómo orientar la calibración.

@@ -130,10 +130,10 @@
                 || data.mainLinks.find(l => l.url === url);
 
     if (lesson) {
-      document.title = lesson.title + ' — ' + data.siteName;
+      document.title = lesson.title + ' | Loc401 - TQMS';
       setMeta('name',     'description', lesson.description  || data.siteDescription);
       setMeta('name',     'keywords',    lesson.focusKeyword || '');
-      setMeta('property', 'og:title',       lesson.title + ' — ' + data.siteName);
+      setMeta('property', 'og:title',       lesson.title + ' | Loc401 - TQMS');
       setMeta('property', 'og:description', lesson.description || data.siteDescription);
       setMeta('property', 'og:url',         window.location.href);
       setOrCreateCanonical(window.location.href);

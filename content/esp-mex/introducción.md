@@ -55,6 +55,6 @@ Vale la pena quedarse con esa tensión. En las lecciones que siguen, encontrará
 
 ---
 
-## A continuación: Enfoque basado en normaes para la calidad en traducción
+## A continuación: Enfoque de la calidad de traducción basado en normas
 
-En la siguiente lección, estableceremos la base normativa que guía todo el enfoque de calidad en traducción cubierto en este curso.
+En la siguiente lección, estableceremos la base normativa que guía el enfoque de calidad en traducción cubierto en este curso.

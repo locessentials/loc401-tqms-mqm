@@ -71,4 +71,4 @@ Reflexiona sobre todas las personas y los materiales que trabajan en conjunto pa
 
 ## A continuación: Entorno de anotación de errores
 
-En la próxima lección, exploraremos los entornos de anotación utilizados para llevar a cabo la evaluación de calidad, y practicaremos de manera directa la anotación de errores de traducción en Label Studio.
+En la próxima lección, exploraremos los entornos de anotación utilizados para llevar a cabo la evaluación de calidad y practicaremos la anotación de errores de traducción en Label Studio.

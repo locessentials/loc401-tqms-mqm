@@ -91,3 +91,5 @@ Tu informe debe incluir:
 ---
 
 ## A continuación: Conclusión y lecciones aprendidas
+
+En la conclusión, revisarás el camino recorrido y reflexionarás sobre cómo ha evolucionado tu definición de calidad en traducción a lo largo del curso.

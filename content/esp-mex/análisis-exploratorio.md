@@ -109,4 +109,6 @@ Mientras lo revisas, considera lo siguiente:
 
 ---
 
-## A continuación: Análisis de causa raíz y acción preventiva
+## A continuación: Análisis de causa raíz y mejora continua
+
+En la próxima lección, aprenderás a identificar las causas raíz de los errores recurrentes en producción y a diseñar acciones correctivas que fortalezcan el proceso a lo largo del tiempo.

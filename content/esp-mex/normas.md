@@ -93,6 +93,6 @@ Imagina que te han contratado para producir una traducción del artículo "[AI C
 
 ---
 
-## A continuación: MQM y calidad holística
+## A continuación: Tipología de errores MQM y calidad holística
 
 En la próxima lección, pondremos las especificaciones en práctica aprendiendo a identificar y clasificar errores de traducción mediante la tipología de errores MQM.
