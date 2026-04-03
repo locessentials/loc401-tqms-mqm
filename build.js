@@ -27,28 +27,29 @@ const shellHtml  = fs.readFileSync(SHELL_HTML, 'utf8');
 if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
 
 // ------------------------------------------------
-// Read shell and extract head/body wrapper
+// Build a single static page for any page object
+// (works for both mainLinks and lessons)
 // ------------------------------------------------
-function buildStaticPage(lang, lesson, contentHtml) {
+function buildStaticPage(lang, page, contentHtml) {
   const data = courseData[lang];
 
   // Build sidebar HTML for this page
   const mainLinksHtml = data.mainLinks.map(link =>
-    `<a class="nav-link${link.url === lesson.url ? ' active' : ''}" href="${link.url}">
+    `<a class="nav-link${link.url === page.url ? ' active' : ''}" href="${link.url}">
       <span class="nav-icon">${link.icon}</span>${link.label}
     </a>`
   ).join('\n');
 
   const lessonsHtml = data.lessons.map(l =>
-    `<a class="lesson-link${l.url === lesson.url ? ' active' : ''}" href="${l.url}">
+    `<a class="lesson-link${l.url === page.url ? ' active' : ''}" href="${l.url}">
       <span class="lesson-number">${l.number}</span>
       <span class="lesson-title">${l.title}</span>
     </a>`
   ).join('\n');
 
   const htmlLang = lang === 'esp-mex' ? 'es-MX' : 'en-US';
-  const pageTitle = `${lesson.title} | Loc401 - TQMS`;
-  const canonicalUrl = `${BASE_URL}/${lesson.url}`;
+  const pageTitle = `${page.title} | Loc401 - TQMS`;
+  const canonicalUrl = `${BASE_URL}/${page.url}`;
 
   return `<!DOCTYPE html>
 <html lang="${htmlLang}">
@@ -56,10 +57,10 @@ function buildStaticPage(lang, lesson, contentHtml) {
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>${escapeHtml(pageTitle)}</title>
-  <meta name="description" content="${escapeHtml(lesson.description || data.siteDescription)}" />
-  <meta name="keywords" content="${escapeHtml(lesson.focusKeyword || '')}" />
+  <meta name="description" content="${escapeHtml(page.description || data.siteDescription)}" />
+  <meta name="keywords" content="${escapeHtml(page.focusKeyword || '')}" />
   <meta property="og:title" content="${escapeHtml(pageTitle)}" />
-  <meta property="og:description" content="${escapeHtml(lesson.description || data.siteDescription)}" />
+  <meta property="og:description" content="${escapeHtml(page.description || data.siteDescription)}" />
   <meta property="og:url" content="${canonicalUrl}" />
   <meta property="og:type" content="article" />
   <link rel="canonical" href="${canonicalUrl}" />
@@ -115,7 +116,42 @@ function escapeHtml(str) {
 }
 
 // ------------------------------------------------
-// Build all lessons for both languages
+// Build a page from a course.json page object,
+// writing output under _static/ and recording
+// the URL for the sitemap.
+// ------------------------------------------------
+function buildPage(lang, page) {
+  const mdPath = path.join(__dirname, page.url);
+
+  if (!fs.existsSync(mdPath)) {
+    console.warn(`  [SKIP] ${page.url} — file not found`);
+    return;
+  }
+
+  try {
+    const markdown    = fs.readFileSync(mdPath, 'utf8');
+    const contentHtml = marked.parse(markdown);
+    const pageHtml    = buildStaticPage(lang, page, contentHtml);
+
+    // Mirror the source path under _static/
+    const outPath = path.join(OUT_DIR, page.url);
+    const outDir  = path.dirname(outPath);
+    if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
+
+    const htmlOutPath = outPath.replace(/\.md$/, '.html');
+    fs.writeFileSync(htmlOutPath, pageHtml, 'utf8');
+
+    console.log(`  [OK]   ${htmlOutPath.replace(__dirname, '')}`);
+    sitemapUrls.push(`${BASE_URL}/${page.url.replace(/\.md$/, '.html')}`);
+    builtCount++;
+  } catch (err) {
+    console.error(`  [ERR]  ${page.url} — ${err.message}`);
+    errorCount++;
+  }
+}
+
+// ------------------------------------------------
+// Build all pages for both languages
 // ------------------------------------------------
 const sitemapUrls = [];
 let builtCount = 0;
@@ -124,36 +160,11 @@ let errorCount  = 0;
 ['eng-usa', 'esp-mex'].forEach(lang => {
   const data = courseData[lang];
 
-  data.lessons.forEach(lesson => {
-    const mdPath = path.join(__dirname, lesson.url);
+  console.log(`\n  [${lang}] Building main nav pages...`);
+  data.mainLinks.forEach(page => buildPage(lang, page));
 
-    if (!fs.existsSync(mdPath)) {
-      console.warn(`  [SKIP] ${lesson.url} — file not found`);
-      return;
-    }
-
-    try {
-      const markdown    = fs.readFileSync(mdPath, 'utf8');
-      const contentHtml = marked.parse(markdown);
-      const pageHtml    = buildStaticPage(lang, lesson, contentHtml);
-
-      // Mirror the source path under _static/
-      const outPath = path.join(OUT_DIR, lesson.url);
-      const outDir  = path.dirname(outPath);
-      if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
-
-      // Write .html alongside the .md path
-      const htmlOutPath = outPath.replace(/\.md$/, '.html');
-      fs.writeFileSync(htmlOutPath, pageHtml, 'utf8');
-
-      console.log(`  [OK]   ${htmlOutPath.replace(__dirname, '')}`);
-      sitemapUrls.push(`${BASE_URL}/${lesson.url.replace(/\.md$/, '.html')}`);
-      builtCount++;
-    } catch (err) {
-      console.error(`  [ERR]  ${lesson.url} — ${err.message}`);
-      errorCount++;
-    }
-  });
+  console.log(`\n  [${lang}] Building lessons...`);
+  data.lessons.forEach(page => buildPage(lang, page));
 });
 
 // ------------------------------------------------

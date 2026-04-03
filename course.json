@@ -6,24 +6,32 @@
       {
         "title": "Course Home",
         "label": "Course Home",
+        "focusKeyword": "translation quality management MQM course ASTM F43",
+        "description": "Introduction to Loc401 — a self-directed course on Translation Quality Management Systems using the MQM framework, covering error annotation, inter-rater agreement, and document-level quality evaluation.",
         "url": "content/eng-usa/index.md",
         "icon": "📘"
       },
       {
         "title": "Outline",
         "label": "Outline",
+        "focusKeyword": "Loc401 course outline MQM translation quality lessons",
+        "description": "Full outline of the Loc401 course, summarizing each lesson from the MQM framework and ASTM standards through error annotation, exploratory data analysis, and root cause analysis.",
         "url": "content/eng-usa/outline.md",
         "icon": "🗺️"
       },
       {
         "title": "About",
         "label": "About",
+        "focusKeyword": "Alaina Brandt LocEssentials translation localization educator ASTM F43",
+        "description": "About Alaina Brandt, founder of LocEssentials — Spanish and English translator, educator, ASTM F43 committee member, and developer of open-source localization management courses.",
         "url": "content/eng-usa/about.md",
         "icon": "📋"
       },
       {
         "title": "Contact",
         "label": "Contact",
+        "focusKeyword": "LocEssentials localization consulting training translation technology",
+        "description": "Work with LocEssentials for customized localization training, multilingual content consulting, and GAI-powered translation technology solutions.",
         "url": "content/eng-usa/contact.md",
         "icon": "💬"
       }
@@ -33,57 +41,57 @@
       {
         "number": 0,
         "title": "Introduction: Translation Quality Management Systems Based on MQM",
-        "focusKeyword": "translation quality management MQM",
-        "description": "An orientation to Translation Quality Management Systems (TQMS) grounded in the MQM framework, covering course structure and learning objectives.",
+        "focusKeyword": "translation quality management TQMS MQM ISO 9001 PDCA TEP",
+        "description": "An orientation to Translation Quality Management Systems (TQMS) grounded in MQM and ISO 9001, framing translation as an input-process-output chain governed by a plan-do-check-act cycle, with a personal quality definition exercise.",
         "url": "content/eng-usa/introduction.md"
       },
       {
         "number": 1,
         "title": "Lesson 1: Standards-Based Approach to Translation Quality",
-        "focusKeyword": "translation quality standards ISO 17100 ASTM F2575",
-        "description": "How ISO 17100 and ASTM F2575 define standards-based translation quality, and how these frameworks apply in professional LSP environments.",
+        "focusKeyword": "ASTM F2575 translation specifications translation labels Tranquality",
+        "description": "How ASTM F2575-25 defines standards-based quality through specifications and Unverified/Professionally Verified translation labels, with a walkthrough of the Tranquality structured specifications framework.",
         "url": "content/eng-usa/standards.md"
       },
       {
         "number": 2,
         "title": "Lesson 2: MQM Error Typology & Holistic Quality",
-        "focusKeyword": "MQM error typology holistic quality scoring",
-        "description": "A deep dive into the MQM error typology — categories, subcategories, and severity levels — and how they map to holistic quality scoring.",
+        "focusKeyword": "MQM error typology quality markers levels of impact holistic quality correspondence readability",
+        "description": "A customized MQM error typology of nineteen error types across six categories extended with quality markers and levels of impact, concluding with a holistic rating system scoring translations on correspondence and readability.",
         "url": "content/eng-usa/mqm-holistic-quality.md"
       },
       {
         "number": 3,
         "title": "Lesson 3: Translation Quality Management Workflows",
-        "focusKeyword": "translation quality management workflow LSP",
-        "description": "Practical TQM workflow design for language service providers, including review cycles, handoff points, and quality gates.",
+        "focusKeyword": "translation quality management TQMS inter-rater reliability evaluator training calibration",
+        "description": "A three-stage TQMS for training evaluator teams through technology and typology projects, addressing inter-rater reliability through scaffolded calibration until annotations are consistent enough for production deployment.",
         "url": "content/eng-usa/tqm-workflows.md"
       },
       {
         "number": 4,
         "title": "Lesson 4: Error Annotation Environment",
-        "focusKeyword": "translation error annotation MQM tools",
-        "description": "How to set up and use an error annotation environment for MQM-based translation quality evaluation, including tool configuration and annotator guidelines.",
+        "focusKeyword": "MQM error annotation Label Studio TEnT CAT tool translation quality evaluation",
+        "description": "A comparison of TEnT-based and dedicated annotation platform workflows — including the structural limitations of CAT tools for MQM evaluation — with a practical walkthrough of Label Studio for structured, exportable quality annotation.",
         "url": "content/eng-usa/annotation-environment.md"
       },
       {
         "number": 5,
         "title": "Lesson 5: Exploratory Data Analysis",
-        "focusKeyword": "translation quality metrics data analysis",
-        "description": "Applying exploratory data analysis to translation quality metrics data — identifying patterns, outliers, and trends across language pairs and content types.",
+        "focusKeyword": "translation quality EDA span overlap F1 score Cohen's Kappa annotator agreement",
+        "description": "Exploratory data analysis of MQM annotation data using a Jupyter notebook and HTML report, covering span overlap visualization, annotator summaries, error distribution, and agreement metrics including F1 scores and Cohen's Kappa.",
         "url": "content/eng-usa/data-analysis.md"
       },
       {
         "number": 6,
         "title": "Lesson 6: Root Cause Analysis and Continual Improvement",
-        "focusKeyword": "translation quality root cause analysis corrective action",
-        "description": "Structured root cause analysis (RCA) methods applied to recurring translation quality issues, and how to design corrective action plans.",
+        "focusKeyword": "root cause analysis translation quality Fishbone 5 Whys MQM corrective action ISO 9001",
+        "description": "Root cause analysis of recurring translation errors using Fishbone Diagrams and the 5 Whys, situated within a production workflow using the MQM Root Cause Error List, with corrective action plan development per ISO 9001.",
         "url": "content/eng-usa/rca-improvement.md"
       },
       {
         "number": 7,
         "title": "Conclusion and Lessons Learned",
-        "focusKeyword": "translation quality management system implementation",
-        "description": "Synthesis of the full Translation Quality Management System course — key takeaways, implementation guidance, and next steps for practitioners.",
+        "focusKeyword": "translation quality management system conclusion lessons learned acclimation",
+        "description": "Course synthesis using a fish acclimation metaphor — recapping each lesson's key takeaways and returning to the personal quality definition created in the introduction to measure how thinking has evolved.",
         "url": "content/eng-usa/conclusion.md"
       }
     ],
@@ -97,24 +105,32 @@
       {
         "title": "Inicio del curso",
         "label": "Inicio del curso",
+        "focusKeyword": "gestión de calidad en traducción MQM curso ASTM F43 autoaprendizaje",
+        "description": "Introducción a Loc401, un curso autodidacta sobre Sistemas de Gestión de Calidad en Traducción con el marco MQM, que abarca anotación de errores, concordancia entre personas evaluadoras y evaluación holística de documentos.",
         "url": "content/esp-mex/inicio.md",
         "icon": "📗"
       },
       {
         "title": "Esquema",
         "label": "Esquema",
+        "focusKeyword": "esquema curso Loc401 MQM lecciones tipología errores análisis datos calidad traducción",
+        "description": "Esquema completo del curso Loc401, con resumen de cada lección: desde el marco MQM y las normas ASTM hasta la anotación de errores, el análisis exploratorio de datos y el análisis de causa raíz.",
         "url": "content/esp-mex/esquema.md",
         "icon": "🗺️"
       },
       {
         "title": "Acerca de",
         "label": "Acerca de",
+        "focusKeyword": "Alaina Brandt LocEssentials traductora educadora ASTM F43 localización",
+        "description": "Conoce a Alaina Brandt, fundadora de LocEssentials — traductora, educadora, miembro del comité ASTM F43 y desarrolladora de cursos de acceso abierto sobre gestión de la traducción y la localización.",
         "url": "content/esp-mex/acerca-de.md",
         "icon": "📋"
       },
       {
         "title": "Contacto",
         "label": "Contacto",
+        "focusKeyword": "LocEssentials consultoría localización formación organizacional tecnología traducción IAG",
+        "description": "Trabaja con LocEssentials para desarrollar capacidades de localización mediante formación personalizada, consultoría de contenido multilingüe y soluciones tecnológicas basadas en IAG.",
         "url": "content/esp-mex/contacto.md",
         "icon": "💬"
       }
@@ -124,57 +140,57 @@
       {
         "number": 0,
         "title": "Introducción: Sistemas de gestión de calidad en traducción basados en MQM",
-        "focusKeyword": "gestión de calidad en traducción MQM",
-        "description": "Orientación general a los Sistemas de Gestión de Calidad en Traducción basados en el marco MQM, con estructura del curso y objetivos de aprendizaje.",
+        "focusKeyword": "sistemas de gestión de calidad en traducción MQM ISO 9001 ciclo PDCA póster de calidad",
+        "description": "Orientación a los Sistemas de Gestión de Calidad en Traducción basados en MQM e ISO 9001, que enmarca la traducción como una cadena entrada-proceso-salida gobernada por el ciclo planificar-hacer-verificar-actuar, con un ejercicio de definición personal de calidad.",
         "url": "content/esp-mex/introducción.md"
       },
       {
         "number": 1,
         "title": "Lección 1: Enfoque de la calidad de traducción basado en normas",
-        "focusKeyword": "normas de calidad en traducción ISO 17100 ASTM F2575",
-        "description": "Cómo la ISO 17100 y la ASTM F2575 definen la calidad en traducción basada en normas, y su aplicación en entornos profesionales de proveedores de servicios lingüísticos.",
+        "focusKeyword": "ASTM F2575 especificaciones de traducción etiquetas de traducción Tranquality ASTM F43",
+        "description": "Cómo la norma ASTM F2575-25 define la calidad en traducción mediante especificaciones y etiquetas de Traducción No Verificada y Verificada Profesionalmente, con un recorrido por el marco de especificaciones estructuradas de Tranquality.",
         "url": "content/esp-mex/normas.md"
       },
       {
         "number": 2,
         "title": "Lección 2: Tipología de errores MQM y calidad holística",
-        "focusKeyword": "tipología de errores MQM puntuación de calidad holística",
-        "description": "Análisis detallado de la tipología de errores MQM — categorías, subcategorías y niveles de gravedad — y su correspondencia con la puntuación de calidad holística.",
+        "focusKeyword": "tipología errores MQM marcadores de calidad niveles de impacto correspondencia legibilidad efectividad",
+        "description": "Una tipología personalizada de diecinueve tipos de error en seis categorías, extendida con marcadores de calidad y niveles de impacto, que culmina en un sistema de calidad holística con calificaciones de correspondencia y legibilidad para determinar la efectividad general de la traducción.",
         "url": "content/esp-mex/mqm-calidad-holística.md"
       },
       {
         "number": 3,
         "title": "Lección 3: Flujos de trabajo en la gestión de calidad de traducción",
-        "focusKeyword": "flujos de trabajo gestión de calidad traducción PSL",
-        "description": "Diseño práctico de flujos de trabajo de gestión de calidad para proveedores de servicios lingüísticos, incluidos ciclos de revisión, puntos de transferencia y controles de calidad.",
+        "focusKeyword": "flujos de trabajo gestión calidad traducción concordancia personas evaluadoras calibración despliegue producción",
+        "description": "Un sistema de gestión de calidad en traducción en tres etapas — preparación, trabajo con las personas evaluadoras, y análisis y lecciones aprendidas — que capacita a los equipos evaluadores mediante proyectos de capacitación tecnológica y tipológica, usando la concordancia como umbral de despliegue en producción.",
         "url": "content/esp-mex/flujos-de-trabajo.md"
       },
       {
         "number": 4,
         "title": "Lección 4: Entorno de anotación de errores",
-        "focusKeyword": "anotación de errores de traducción herramientas MQM",
-        "description": "Cómo configurar y utilizar un entorno de anotación de errores para la evaluación de calidad en traducción basada en MQM, incluyendo configuración de herramientas y pautas para anotadores.",
+        "focusKeyword": "anotación errores traducción MQM Label Studio herramientas TAC evaluación calidad",
+        "description": "Comparación de las herramientas de entorno de traducción con las plataformas de anotación profesional, incluidas las limitaciones estructurales de las herramientas TAC para la evaluación MQM, con un recorrido práctico por Label Studio para la anotación estructurada y exportable de errores.",
         "url": "content/esp-mex/anotación-de-errores.md"
       },
       {
         "number": 5,
         "title": "Lección 5: Análisis exploratorio de datos",
-        "focusKeyword": "métricas de calidad en traducción análisis de datos",
-        "description": "Aplicación del análisis exploratorio de datos a métricas de calidad en traducción — identificación de patrones, valores atípicos y tendencias en distintos pares de lenguas y tipos de contenido.",
+        "focusKeyword": "análisis exploratorio datos anotación MQM concordancia evaluadoras coincidencia exacta F1 Kappa de Cohen",
+        "description": "Análisis exploratorio de datos de anotaciones MQM mediante un cuaderno de Jupyter y un reporte HTML, con visualización de superposición de fragmentos, resúmenes por anotadora, distribución de tipos de error y métricas de concordancia: coincidencia exacta, puntuación F1 y Kappa de Cohen.",
         "url": "content/esp-mex/análisis-exploratorio.md"
       },
       {
         "number": 6,
         "title": "Lección 6: Análisis de causa raíz y mejora continua",
-        "focusKeyword": "análisis de causa raíz calidad en traducción mejora continua",
-        "description": "Métodos estructurados de análisis de causa raíz (ACR) aplicados a problemas recurrentes de calidad en traducción, y cómo diseñar planes de acción correctiva.",
+        "focusKeyword": "análisis causa raíz traducción diagrama Ishikawa 5 Por Qués lista causas raíz MQM mejora continua",
+        "description": "Identificación de causas raíz de errores recurrentes en producción mediante el Diagrama de Ishikawa y los 5 Por Qués, con apoyo de la Lista de Causas Raíz de Errores de MQM y desarrollo de planes de acción correctiva conforme a ISO 9001.",
         "url": "content/esp-mex/causa-raíz-mejora-continua.md"
       },
       {
         "number": 7,
         "title": "Conclusión y lecciones aprendidas",
-        "focusKeyword": "implementación de sistema de gestión de calidad en traducción",
-        "description": "Síntesis del curso completo sobre Sistemas de Gestión de Calidad en Traducción — conclusiones clave, orientación para la implementación y próximos pasos para profesionales.",
+        "focusKeyword": "conclusión gestión calidad traducción aclimatación personas evaluadoras póster de calidad lecciones aprendidas",
+        "description": "Síntesis del curso mediante la metáfora de la aclimatación del pez que ilustra cómo las personas traductoras y evaluadoras internalizan los estándares de calidad de una organización, con revisión de los aprendizajes de cada lección y actualización del póster personal de calidad.",
         "url": "content/esp-mex/conclusión.md"
       }
     ],
