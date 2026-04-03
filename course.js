@@ -209,12 +209,72 @@
       link.setAttribute('rel', 'noopener noreferrer');
     });
 
+    // Wrap all tables in a scrollable div
+    contentEl.querySelectorAll('table').forEach(table => {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'table-wrapper';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    });
+
     window.scrollTo(0, 0);
   }
 
   function showError(message) {
     mainEl.classList.remove('loading');
     contentEl.innerHTML = '<div class="error-message">⚠️ ' + message + '</div>';
+  }
+
+  // ================================================
+  // Mobile nav drawer
+  // ================================================
+  const menuToggle   = document.getElementById('menu-toggle');
+  const sidebar      = document.getElementById('sidebar');
+  const overlay      = document.getElementById('sidebar-overlay');
+
+  function openDrawer() {
+    sidebar.classList.add('open');
+    overlay.classList.add('open');
+    menuToggle.setAttribute('aria-expanded', 'true');
+  }
+
+  function closeDrawer() {
+    sidebar.classList.remove('open');
+    overlay.classList.remove('open');
+    menuToggle.setAttribute('aria-expanded', 'false');
+  }
+
+  if (menuToggle) {
+    menuToggle.addEventListener('click', () => {
+      sidebar.classList.contains('open') ? closeDrawer() : openDrawer();
+    });
+  }
+
+  if (overlay) {
+    overlay.addEventListener('click', closeDrawer);
+  }
+
+  // Close drawer when a nav link is tapped on mobile
+  document.getElementById('sidebar').addEventListener('click', e => {
+    if (window.innerWidth <= 768 && e.target.closest('.nav-link, .lesson-link')) {
+      closeDrawer();
+    }
+  });
+
+  // Tablet sidebar collapse
+  const sidebarCollapseBtn = document.getElementById('sidebar-collapse');
+  if (sidebarCollapseBtn) {
+    sidebarCollapseBtn.addEventListener('click', () => {
+      const collapsed = document.body.classList.toggle('sidebar-collapsed');
+      sidebarCollapseBtn.textContent = collapsed ? '›' : '‹';
+      sidebarCollapseBtn.setAttribute('aria-label', collapsed ? 'Expand sidebar' : 'Collapse sidebar');
+    });
+  }
+
+  // Mobile close button
+  const sidebarCloseBtn = document.querySelector('#sidebar-close button');
+  if (sidebarCloseBtn) {
+    sidebarCloseBtn.addEventListener('click', closeDrawer);
   }
 
 })();

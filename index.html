@@ -23,14 +23,17 @@
   <header id="topbar">
 
     <a id="topbar-logo" href="#" onclick="return false;">
-      <!-- Replace src with actual logo path when available -->
       <img src="assets/LocCapTransparentTilted.png"
            alt="LocEssentials logo: two-toned blue baseball cap with LOC in white lettering"
            onerror="this.style.display='none'" />
       <span class="logo-text">LocEssentials</span>
     </a>
-
+    
     <div id="topbar-right">
+      <button id="menu-toggle" aria-label="Open navigation menu">
+        <span></span><span></span><span></span>
+      </button>
+      <button id="sidebar-collapse" aria-label="Toggle sidebar">‹</button>
       <div id="lang-toggle" role="group" aria-label="Language selection">
         <button class="lang-btn active" data-lang="eng-usa" aria-pressed="true">
           eng-usa
@@ -45,6 +48,10 @@
 
   <!-- ===================== SIDEBAR ===================== -->
   <nav id="sidebar" aria-label="Course navigation">
+
+    <div id="sidebar-close">
+      <button aria-label="Close navigation">✕</button>
+    </div>
 
     <!-- Course title -->
     <div id="course-title-block">
@@ -74,5 +81,6 @@
   <!-- Course logic -->
   <script src="course.js"></script>
 
+  <div id="sidebar-overlay"></div>
 </body>
 </html>
